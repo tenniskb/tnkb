@@ -1,0 +1,28 @@
+site_name: Tennis Knowledge Base
+site_url: https://tenniskb.github.io/tnkb/
+repo_url: https://github.com/tenniskb/tnkb
+repo_name: tenniskb/tnkb
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: green
+      accent: light green
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+
+docs_dir: docs
