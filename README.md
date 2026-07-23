@@ -17,6 +17,6 @@ Content reconciliation (Section 8 of the spec) is done for the structural port �
 
 - Some deep-dive topics carry a duplicate folder + flat-file pair (inherited from tenniskb's own repo structure) — cosmetic, not yet cleaned up.
 - Naming-drift cosmetics (e.g. "Fascia Spirals" vs. "Fascia Spiral", "&" vs. "and") not yet normalized.
-- Not yet connected to a GitHub remote or GitHub Pages — this is a local git repo only as of its creation.
+- This is currently raw markdown served as-is (no MkDocs build yet) — what you're reading at [tenniskb.github.io/tnkb](https://tenniskb.github.io/tnkb/) is this README, not a built site. Turning it into an actual navigable site (Section 8's publishing plan) is still ahead.
 
 See the spec's Section 9 (Open Items) for the full list.
