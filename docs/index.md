@@ -1,5 +1,7 @@
 # Tennis Knowledge Base
 
+🇬🇧 English · [🇻🇳 Tiếng Việt](vi/index.md)
+
 A tennis knowledge base spanning Foundation, Advanced, and Elite technique and tactics, plus a dedicated Science Lab for the anatomy and biomechanics underneath the strokes.
 
 ## Sections
