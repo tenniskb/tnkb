@@ -2,8 +2,8 @@ I spent years struggling with forehand until I discovered a few key principles. 
 
 ## Navigation
 
-- [Home](../../index.md)
-- [ Site](../../../../index.md)
+- [Home](../../../index.md)
+- [ Site](../../../index.md)
 
 ## Pages in this folder
 - [Forehand L Angle And Late Acceleration](Forehand L-Angle and Late Acceleration.md)

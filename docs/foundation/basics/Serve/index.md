@@ -2,8 +2,8 @@ If you’ve ever felt stuck with serve, you’re not alone. I’ve been there, a
 
 ## Navigation
 
-- [Home](../../index.md)
-- [ Site](../../../../index.md)
+- [Home](../../../index.md)
+- [ Site](../../../index.md)
 
 ## Pages in this folder
 

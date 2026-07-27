@@ -2,8 +2,8 @@ The journey to mastering volley was full of frustrating moments. In this section
 
 ## Navigation
 
-- [Home](../../index.md)
-- [ Site](../../../../index.md)
+- [Home](../../../index.md)
+- [ Site](../../../index.md)
 
 ## Pages in this folder
 

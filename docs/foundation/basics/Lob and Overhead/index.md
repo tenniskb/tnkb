@@ -2,8 +2,8 @@ The journey to mastering lob and overhead was full of frustrating moments. In th
 
 ## Navigation
 
-- [Home](../../index.md)
-- [ Site](../../../../index.md)
+- [Home](../../../index.md)
+- [ Site](../../../index.md)
 
 ## Pages in this folder
 - [Lob And Overhead — The Vertical Game](Lob and Overhead — The Vertical Game.md)

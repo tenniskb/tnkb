@@ -2,8 +2,8 @@ I spent years struggling with continental grip until I discovered a few key prin
 
 ## Navigation
 
-- [Home](../../index.md)
-- [ Site](../../../../index.md)
+- [Home](../../../index.md)
+- [ Site](../../../index.md)
 
 ## Pages in this folder
 - [Continental Grip — The 9 Shot Universal Key](Continental Grip — The 9-Shot Universal Key.md)

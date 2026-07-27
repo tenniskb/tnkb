@@ -2,8 +2,8 @@ If you’ve ever felt stuck with slice approach, you’re not alone. I’ve been
 
 ## Navigation
 
-- [Home](../../index.md)
-- [ Site](../../../../index.md)
+- [Home](../../../index.md)
+- [ Site](../../../index.md)
 
 ## Pages in this folder
 

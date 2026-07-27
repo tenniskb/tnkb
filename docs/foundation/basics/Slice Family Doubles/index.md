@@ -2,8 +2,8 @@ I spent years struggling with slice family doubles until I discovered a few key 
 
 ## Navigation
 
-- [Home](../../index.md)
-- [ Site](../../../../index.md)
+- [Home](../../../index.md)
+- [ Site](../../../index.md)
 
 ## Pages in this folder
 

@@ -2,8 +2,8 @@ Learning about doubles tactics was a turning point for me. I want to share what 
 
 ## Navigation
 
-- [Home](../../index.md)
-- [ Site](../../../../index.md)
+- [Home](../../../index.md)
+- [ Site](../../../index.md)
 
 ## Pages in this folder
 - [Doubles Tactics — Communication, Formations & The 50+ Longevity Game](Doubles Tactics — Communication, Formations & The 50+ Longevity Game.md)

@@ -2,8 +2,8 @@ Learning about doubles serves was a turning point for me. I want to share what I
 
 ## Navigation
 
-- [Home](../../index.md)
-- [ Site](../../../../index.md)
+- [Home](../../../index.md)
+- [ Site](../../../index.md)
 
 ## Pages in this folder
 - [Doubles Serves — The 4 Serve Patterns](Doubles Serves — The 4 Serve Patterns.md)

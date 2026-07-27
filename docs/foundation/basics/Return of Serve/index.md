@@ -2,8 +2,8 @@ I spent years struggling with return of serve until I discovered a few key princ
 
 ## Navigation
 
-- [Home](../../index.md)
-- [ Site](../../../../index.md)
+- [Home](../../../index.md)
+- [ Site](../../../index.md)
 
 ## Pages in this folder
 

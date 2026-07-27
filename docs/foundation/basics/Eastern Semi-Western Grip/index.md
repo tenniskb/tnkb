@@ -2,8 +2,8 @@ When I first started working on my eastern semi western grip, I realized how muc
 
 ## Navigation
 
-- [Home](../../index.md)
-- [ Site](../../../../index.md)
+- [Home](../../../index.md)
+- [ Site](../../../index.md)
 
 ## Pages in this folder
 - [Eastern Semi Western Grip — The 30% Forehand Grips](Eastern Semi-Western Grip — The 30% Forehand Grips.md)

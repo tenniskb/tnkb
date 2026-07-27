@@ -25,4 +25,5 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
 
+
 docs_dir: docs
