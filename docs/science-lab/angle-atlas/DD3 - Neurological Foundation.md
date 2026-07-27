@@ -292,12 +292,17 @@
 
 **Anatomy_Lab DD8 reaction time cascade** — total time from ball leaving opponent's racket to ball leaving your racket:
 
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
+| Step | Stage | Brain / Body Region | Time |
+| --- | --- | --- | --- |
+| 1 | Photoreception | Eye (retina) | ~0.05s |
+| 2 | Optic nerve transit | Retina → LGN (thalamus) → visual cortex | ~0.03–0.05s |
+| 3 | Visual processing | Occipital + parietal cortex | ~0.08–0.15s |
+| 4 | Decision | Prefrontal + motor cortex | ~0.10–0.30s |
+| 5 | Motor planning | Cerebellum + basal ganglia | ~0.05–0.10s |
+| 6 | Motor command transit | Motor cortex → spinal cord → muscles | ~0.05–0.10s |
+| 7 | Muscle contraction + tendon release | Muscles/tendons → racket → ball | ~0.10–0.20s |
+
+**Total: ~0.45–0.95 seconds** (per Chapter 1's reaction chain).
 
 | ![Reaction time cascade](images/DD8_control_system/Anatomy_He_Tien_Dinh_Full__img20.png) |
 | --- |
@@ -307,11 +312,11 @@
 
 **Anatomy_Lab DD8 critical insight** — at age 50+, THREE sensory systems decline SIMULTANEOUSLY:
 
-|  |
-|  |
-|  |
-|  |
-|  |
+| Sensory System | Onset of Decline | Magnitude | Practical Impact |
+| --- | --- | --- | --- |
+| Vision | ~Age 40–45 | Presbyopia (loss of near focus) | Harder to track a small, fast ball; use yellow balls / tinted glasses for contrast |
+| Proprioception | After age 50 | ~10%–15% decline per decade | Reduced joint-angle awareness; more falls, less "feel" for the racket |
+| Vestibular system | After age 40 (hair-cell loss) | ~20%–30% reduced sensitivity by age 60 | Balance loss, dizziness on quick direction changes |
 
 | ![Sensory triad decline](images/DD8_control_system/Anatomy_He_Tien_Dinh_Full__img28.png) |
 | --- |
@@ -329,15 +334,17 @@
 
 ## 9.6 — Updated Brain-Region Map (Anatomy_Lab Sharpened)
 
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
+| # | Brain Region | Role | Processing Speed |
+| --- | --- | --- | --- |
+| 1 | Occipital lobe (visual cortex) | Processes what you see — recognizes ball, opponent, court | n/s |
+| 2 | Parietal lobe | Spatial processing — maps where things are | n/s |
+| 3 | Temporal lobe | Pattern recognition — recognizes shot patterns | n/s |
+| 4 | Prefrontal cortex | Decision-making — selects the shot | Slow (~0.10–0.30s) |
+| 5 | Motor cortex | Sends the movement command down to the spinal cord | Medium (~0.05–0.10s) |
+| 6 | Cerebellum | Timing & coordination — the "autopilot" | n/s |
+| 7 | Basal ganglia | Stores learned motor patterns — the "automatic pilot 2" | Fast (~0.02–0.05s) |
+
+*n/s = no specific speed stated for this region in Chapter 4.*
 
 | ![Brain region integration](images/DD8_control_system/Anatomy_He_Tien_Dinh_Full__img35.png) |
 | --- |

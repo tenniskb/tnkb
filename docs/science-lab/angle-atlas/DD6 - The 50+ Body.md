@@ -27,22 +27,15 @@
 
 **There are exactly 7 categories of decline** that affect tennis after 50. Each has a NUMBER. Each has a tennis implication.
 
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
+| # | Decline | Rate | Tennis Implication |
+| --- | --- | --- | --- |
+| 1 | Bone density | ~5%–8% of peak bone mass lost by 50 | Tennis's high-impact loading stimulates bone remodeling — protective, not harmful |
+| 2 | Disc hydration | Drops from ~80% water (age 20) to ~65%–70% (age 50); 1–2 cm of height lost between 30–70 | Facet joints get overloaded as discs shrink; movement (walking) feeds the discs |
+| 3 | Cartilage thickness | ~1%–2% of thickness lost per decade | No nerves in cartilage — pain arrives only after 30%–50% is already gone |
+| 4 | Muscle mass (sarcopenia) | ~1%–2%/year lost after 50; ~3%/year after 70 | Stroke power fades; 12 weeks of resistance training adds 1–2 kg of muscle back |
+| 5 | Type II (fast-twitch) fiber size | ~30%–40% shrinkage by 70 (vs ~10%–20% for Type I) | Serve pace drops faster than endurance holds up |
+| 6 | Tendon/ligament stiffness | ~25%–35% stiffer by 60 (vs age 25); cell turnover drops ~50% after 50 | Slower healing, higher strain risk; eccentric loading helps maintain capacity |
+| 7 | Nerve conduction / sensory-proprioceptive decline | n/s (exact conduction velocity not stated); proprioception accuracy drops ~10%–15%/decade after 50 | Balance, off-center recovery, and court awareness degrade — trainable with balance drills |
 
 **The key insight** — **All 7 declines are MEASURABLE. None are FATE.** Each can be slowed (sometimes reversed) with the right training. The rest of this chapter tells you exactly how.
 
@@ -214,28 +207,15 @@
 
 **The adaptation principle** — For each decline, change ONE thing about your tennis to compensate. Don't fight the body.
 
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
+| Decline | Primary Tennis Adaptation |
+| --- | --- |
+| Bone density | Add resistance training 2×/week (loaded squats, lunges) — tennis's own impact loading already helps |
+| Disc hydration | Walk 5 minutes for every ~45 minutes of sitting; keep lumbar flexion + rotation under ~50% of max |
+| Cartilage thickness | Avoid deep squats beyond ~110° knee flexion; use partial squats and strengthen the quads to absorb shock |
+| Muscle mass / Type II fiber shrinkage | Resistance train 2–3×/week (8–15 reps at 60%–75% of 1RM) to slow sarcopenia and preserve fast-twitch power |
+| Tendon/ligament stiffness | Warm up 8–12 minutes before play and add eccentric loading (heel drops, Nordic curls, wrist flexions) |
+| Sensory decline (vision, proprioception, vestibular) | Daily single-leg balance (eyes closed, 30 sec × 3/leg) plus slow head-rotation drills |
+| Recovery decline (sleep, hormones, inflammation) | Sleep 7.5–8.5 hours nightly and follow the 24-hour (after a match) / 48-hour (after a tournament) light-activity recovery rule |
 
 **The one-line adaptation summary** — **"Play more, modify technique, train the decline, recover fully."** Tennis stays the same in spirit, but every parameter shifts a little.
 
@@ -245,20 +225,13 @@
 
 **This is the daily routine** that maintains all 7 decline categories in 12 minutes. Do it every morning, ideally before tennis.
 
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
+| Exercise | Targets (Decline Addressed) | Protocol |
+| --- | --- | --- |
+| Single-leg balance, eyes closed | Proprioception (Ch. 6) | 30 sec × 3 reps/leg |
+| Slow heel drops (eccentric) | Achilles/tendon stiffness (Ch. 5) | Slow eccentric loading, daily |
+| Slow wrist flexions (eccentric) | Forearm/ECRB tendon stiffness — "tennis elbow" (Ch. 5) | Slow eccentric loading, daily |
+| Shoulder external rotation | Shoulder joint mobility & tendon health | n/s (reps/sets not stated) |
+| T-spine mobility stretch | Thoracic rotation mobility, spinal disc nutrition (Ch. 2, Ch. 6) | n/s (reps/sets not stated) |
 
 **Total: 12 minutes.** Less than 1% of your day. **In 4 weeks, all 7 decline categories will start reversing.** In 12 weeks, you'll feel measurably different.
 
@@ -330,12 +303,12 @@
 
 **Anatomy_Lab DD7 protocol** — proprioception declines ~10%–15% per decade after 50. The fix is a 4-step progression:
 
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
+| Step | Drill | Protocol (Ch. 6) | Allotted Time |
+| --- | --- | --- | --- |
+| 1 | Single-leg balance, eyes closed | 30 sec × 3 reps/leg | 5 min |
+| 2 | Wobble board or BOSU ball | 5 min/session | 5 min |
+| 3 | Catch a ball with eyes closed (partner soft-toss) | 20 reps | 5 min |
+| 4 | Single-leg stance with head turning | 30 sec | 5 min |
 
 | ![Single leg balance on floor](images/DD7_ankles_feet/DD7_ankles_feet_18.jpg) |
 | --- |
@@ -354,20 +327,15 @@
 
 ## 10.8 — The Updated 50+ Daily Routine (Anatomy_Lab Protocol)
 
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
+| Exercise | Targets | Protocol |
+| --- | --- | --- |
+| Single-leg balance, eyes closed | Proprioception (Ch. 6) | 30 sec × 3 reps/leg |
+| Slow heel drops (eccentric) | Achilles/tendon stiffness (Ch. 5) | Slow eccentric loading, daily |
+| Slow wrist flexions (eccentric) | Forearm/ECRB tendon stiffness (Ch. 5) | Slow eccentric loading, daily |
+| Shoulder external rotation | Shoulder mobility & tendon health | n/s (reps/sets not stated) |
+| T-spine mobility stretch | Thoracic rotation mobility | n/s (reps/sets not stated) |
+| Bird Dog | Multifidus re-activation, lumbar spine (Ch. 10.1) | 10 reps × 2 sets × 2 sides, daily |
+| Hip CARs | Hip internal rotation / mobility (Ch. 10.3) | 5 reps × 2 directions × 2 sets, daily |
 
 **Total: 16 minutes/day.** Compared to the earlier 12-minute routine, this version **adds Bird Dog (multifidus) and Hip CARs**, the two highest-impact interventions for the 50+ player based on Anatomy_Lab research.
 

@@ -292,12 +292,12 @@
 
 **Anatomy_Lab DD2 finding** — the "shoulder" is actually **4 joints**:
 
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
+| Joint | Where | Motion Available | Why It Matters |
+| --- | --- | --- | --- |
+| 1. Glenohumeral | Ball (humeral head) + socket (glenoid); socket covers only ~1/3 of the ball | Full ball-and-socket range | Sacrifices stability for mobility |
+| 2. Acromioclavicular (AC) | Where clavicle meets acromion (top of scapula) | ~5°–8° | Injured in falls — the "separated shoulder" |
+| 3. Sternoclavicular (SC) | Where clavicle meets sternum | ~30°–40° | The ONLY bony connection between the arm and the trunk; critical for serve and overhead |
+| 4. Scapulothoracic | Sliding surface between scapula and rib cage (not a true joint) | Scapula "floats" on the ribs | Allows the arm to reach up high |
 
 | ![Shoulder 4-joint complex](images/DD2_shoulders/DD2_shoulders_pdf10.jpeg) |
 | --- |

@@ -304,21 +304,24 @@ For 3.5 → 4.5 players, this is the unlock. At 3.5, you copy form. At 4.0, you 
 
 **Here is everything pulled together.** For each stroke, the critical angles at the loaded position. Use this as a video-checklist.
 
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
+| Joint / Angle (Loaded Position) | Forehand | Backhand (2H) | Volley | Serve (Trophy) |
+| --- | --- | --- | --- | --- |
+| Foot angle | 30°–45° closed / 15°–30° neutral | 10°–20° toward net post | 30°–60° toward net | ~20° front foot toward net post |
+| Heel-off-ground angle | 50°–60° | n/s | 15°–25° | 60°–70° |
+| Knee flexion | 120°–135° | n/s | n/s | 130°–140° |
+| Hip–torso angle | 50°–65° | 45°–55° | n/s | 30°–45° |
+| Hip rotation angle | ~60° (pelvis) | 45°–55° | 20°–30° | ~80°–100° total (pelvis + shoulders) |
+| Hip hinge depth | Half-way down | n/s | n/s | Two-thirds down |
+| Lumbar extension | 15°–25° | n/s | n/s | n/s |
+| Thoracic rotation | 40°–50° | n/s | n/s | 70°–90° (thoracic + shoulder combined) |
+| Trunk side-bend | 5°–15° | n/s | 0°–5° | n/s |
+| Shoulder abduction | 90°–110° | n/s | 50°–70° | 120°–140° |
+| Shoulder external rotation | 80°–100° | n/s | n/s | 110°–130° ("back-scratch") |
+| Shoulder horizontal adduction | 0°–15° | 90°–110° | n/s | n/s |
+| Elbow flexion (loaded) | 90°–110° | 90°–110° | 120°–140° | 90°–110° |
+| Wrist extension (loaded) | 90°–110° | n/s | n/s | n/s |
+
+*n/s = not specifically stated in this Atlas for that stroke.*
 
 **How to use this table** — Pick one stroke per week. Film yourself from two angles (side view for sagittal plane, top-down view for horizontal plane). Pause at the loaded position. Compare each number. **If 3+ numbers are off by >15°, that's your stroke's "missing angle."**
 
@@ -394,14 +397,15 @@ For 3.5 → 4.5 players, this is the unlock. At 3.5, you copy form. At 4.0, you 
 
 ## 11.1 — The 6 Joint Angles at Forehand Contact (Anatomy_Lab Refined)
 
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
+| Joint / Angle | Value at Contact | Source (this Atlas) |
+| --- | --- | --- |
+| Hip rotation | ~0° (fully facing the ball) | §4.2 |
+| Shoulder plane (scapular plane) | 30°–40° forward of straight lateral | Fig. 1 caption |
+| Arm–trunk angle | ~45° | Fig. 1 caption |
+| Elbow flexion | 150°–170° | §7.1 |
+| Forearm pronation | 40°–60° | §7.2 |
+| Wrist extension | 0°–20° ("locked") | §8.1 |
+| Wrist flexion | 0° at contact, 20°–40° immediately post-contact (the "snap") | §8.2 |
 
 ![The 6 joint angles at forehand contact](images/DD1_player_in_motion/DD1_player_in_motion_01.png)
 
@@ -465,12 +469,13 @@ For 3.5 → 4.5 players, this is the unlock. At 3.5, you copy form. At 4.0, you 
 
 **Force-by-link table** — the contribution of each link in the kinetic chain to TOTAL racket-head speed (from Roetert & Kovacs 2011, Ch.1):
 
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
+| Link in Kinetic Chain | Contribution to Racket-Head Speed |
+| --- | --- |
+| Hip rotation | ~50% |
+| Shoulder rotation | ~30% |
+| Wrist snap | ~20% |
+
+*These are the only per-link percentages given in this Atlas (§4.2); the source does not break out separate figures for the legs/ground contact or trunk beyond the hip-rotation number above.*
 
 | ![Acceleration: legs to core to chest](images/DD1_player_in_motion/Giai_Phau_Tennis_Toan_Dien__img22.png) |
 | --- |
@@ -494,13 +499,12 @@ For 3.5 → 4.5 players, this is the unlock. At 3.5, you copy form. At 4.0, you 
 
 **Updated 50+ angle ranges** (combining Anatomy_Lab + earlier Tuyen_Tap):
 
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
+| Angle | General-Adult Range (earlier chapters) | 50+ Adjusted Range | Why |
+| --- | --- | --- | --- |
+| Knee flexion (groundstrokes) | 120°–135° | 120°–140°, never below 110° | Below 110° stresses the patellar tendon |
+| Hip–torso angle (forehand) | 50°–65° | 55°–65° is an acceptable window | ~15% power loss but ~50% lower injury risk |
+| Lumbar extension | Up to 25° (disc fibers start failing at 28°–30°) | Keep under 20° | Disc hydration is ~20% lower by age 50 |
+| Shoulder external rotation (serve) | 110°–130° | ~90°–100° by age 55 | Capsule loses ~5°–10° ER per decade after 40 |
 
 * * *
 

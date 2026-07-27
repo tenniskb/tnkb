@@ -93,25 +93,9 @@
 
 **Close your eyes. Raise your right hand above your head.** You knew where your hand was without seeing it. That's proprioception. **It's running 24/7** — even when you're sleeping.
 
-**The proprioception hardware** (covered in detail in DD3 Ch.3 and DD5 Ch.7):
+**The proprioception hardware** (covered in detail in DD3 Ch.3 and DD5 Ch.7): proprioception is delivered by receptors embedded in muscles, tendons, joint capsules, and skin — not by a single organ. This deep dive does not restate that anatomy in full (see DD3 Ch.3 and DD5 Ch.7 for the receptor-level detail); the performance numbers that matter on court are these: proprioception accuracy is ~30%–40% worse in a 3.5 player than a 4.5 player, and that gap closes by 30%–50% with 8 weeks of targeted drills (closed-eye balance, single-leg stance, racket-position matching).
 
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-
-**Proprioception accuracy by joint** (typical 4.0 player, from DD1 Ch.3 and DD3 Ch.3):
-
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
+**Proprioception accuracy by joint** (typical 4.0 player, from DD1 Ch.3 and DD3 Ch.3): the joints most relevant to tennis proprioception are the shoulder, elbow, wrist, hip, knee, ankle, and spine — each feeding continuous PV to the brain during a stroke. This document does not break out joint-by-joint accuracy percentages (n/s here — see DD1 Ch.3 and DD3 Ch.3 for that detail); the numbers it does establish are the overall 3.5-vs-4.5 gap (~30%–40% worse) and the 50+ decline rate (~10%–15% per decade after 50).
 
 **Why proprioception matters more than vision at contact** — at the moment of contact, your eyes CANNOT track the ball (the VOR stabilizes them, but visual processing still takes 30–50 ms). **Your proprioception tells you where the racket is in that millisecond** — and that's the only feedback you have.
 
@@ -129,12 +113,13 @@
 
 **The foot's sensor hardware** (from Anatomy_Lab DD7):
 
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
+| Component | Detail |
+| --- | --- |
+| Bones | 26 bones — the foundation for the 3 arches |
+| Nerve endings in the sole | 7,000+ |
+| Reflex speed | 30 ms — faster than conscious thought (~200 ms) |
+| Arches (spring mechanism) | Medial longitudinal, lateral longitudinal, transverse |
+| Sources of PV | Pressure distribution, surface texture, vibration timing |
 
 **The 30 ms foot reflex** — the foot's nerve endings fire a reflex in **30 milliseconds** — **FASTER than conscious thought (~200 ms)**. **This reflex IS the split-step mechanism.**
 
@@ -160,13 +145,14 @@
 
 **The hand's sensor hardware**:
 
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
+| Component | Detail |
+| --- | --- |
+| Bones | 27 bones — the sensor platform |
+| Grip-pressure PV | 3/10 at rest → 7/10 at contact → 3/10 at follow-through |
+| Face-angle PV | Processed ~50 ms before contact |
+| Vibration (impact) PV | Processed in ~10–30 ms; small = clean hit, large = off-center |
+| Position PV | Racket location in space, sensed via proprioception, no vision needed |
+| Carpal tunnel | High sensor density — 9 flexor tendons + median nerve packed into ~2 cm² (per DD5 Ch.6) |
 
 **The 4 sources of hand PV**:
 
@@ -242,14 +228,11 @@
 
 **The ear's PV-audio** (sound at contact):
 
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
+| Audio PV Source | What It Tells You | Timing |
+| --- | --- | --- |
+| Your own contact sound | Shot quality — clean hit vs mishit | ~10–15 ms from contact to brain |
+| Opponent's footwork sound | Opponent's court position | n/s (no timing given in source) |
+| Opponent's contact sound | Spin and pace of the incoming ball | n/s (no timing given in source) |
 
 **The ear's PV-audio timing** — sound is the FASTEST sensory channel after reflexes. **~10–15 ms from contact to brain.** This is why you know INSTANTLY whether the shot was clean or not.
 
@@ -265,12 +248,13 @@
 
 **The vestibular PV-balance** (head position in space):
 
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
+| Component | Detail |
+| --- | --- |
+| Semicircular canals (3) | Anterior, posterior, horizontal — detect head rotation |
+| Otolith organs (2) | Utricle + saccule — detect linear acceleration and head tilt |
+| Otoconia crystals | Calcium carbonate crystals that sense gravity ("which way is up"); loss/dislodging causes BPPV vertigo |
+| Rotation speed sensed | Up to ~600°/s during a fast head turn; ~120° in <0.5 s during a typical serve |
+| 50+ decline | ~20%–30% reduction in vestibular sensitivity by age 60 |
 
 **The vestibular PV-rotation** — at every serve, the head rotates ~120° in <0.5s. **The vestibular system tracks this rotation in real-time.**
 
@@ -316,11 +300,11 @@ The diagram (Figure 3a) shows the **complete balance control loop**. Let me walk
 
 **Every tennis shot generates 3 types of feedback**. They happen at different times and have different impacts.
 
-|  |
-|  |
-|  |
-|  |
-|  |
+| Type | Timing | Primary Channels | Description |
+| --- | --- | --- | --- |
+| 1. Live (during stroke) | 10–50 ms | Hands, feet, vestibular | Feedback sensed DURING the stroke — the fastest correction loop |
+| 2. Post-stroke (after ball lands) | 200–500 ms | Eyes | Feedback after the ball lands — the loop most players default to ("watch the ball") |
+| 3. Anticipatory (across strokes) | Minutes (spans multiple strokes) | Pattern memory | Adjusting the NEXT stroke's SV based on a remembered pattern, before it starts |
 
 **The 3.5 player's mistake** — most 3.5 players focus on **TYPE 2 (post-stroke)** because that's where they're told to look. "Watch the ball" = post-stroke visual feedback.
 
@@ -328,11 +312,11 @@ The diagram (Figure 3a) shows the **complete balance control loop**. Let me walk
 
 **The training implication** — to become 4.5, you need:
 
-|  |
-|  |
-|  |
-|  |
-|  |
+| Feedback Type | What to Train | How |
+| --- | --- | --- |
+| Type 1 (Live) | Mid-swing error sensing | Hand + foot proprioception drills — feel grip, face angle, and foot pressure change DURING the swing |
+| Type 2 (Post-stroke) | Ball-flight feedback | Already trained by default ("watch the ball") — least in need of extra work |
+| Type 3 (Anticipatory) | Pattern-based pre-adjustment | Track outcomes across strokes (e.g., "last 3 forehands went long") and adjust the SV before the next stroke starts |
 
 **The most-overlooked type** — TYPE 3 (anticipatory) is the most under-trained. **Most players repeat the SAME stroke 1000 times without adapting.** They only adapt when someone tells them to. **Autonomous adaptation** comes from Type 3 training.
 
@@ -346,13 +330,13 @@ The diagram (Figure 3a) shows the **complete balance control loop**. Let me walk
 
 **The error correction hierarchy** (from fastest to slowest):
 
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
+| Level | Mechanism | Speed | Example |
+| --- | --- | --- | --- |
+| 1 | Reflex arc (foot) | 30 ms | Split-step balance reflex — no conscious thought needed |
+| 2 | Sensory-neural round trip | ~50 ms | Hand/ear vibration PV travels spinal cord → brainstem → back to muscle (per Ch.12.3 neural pathway) |
+| 3 | Conscious cortical awareness | ~170 ms | Cortex "notices" the imbalance after the reflex has already fired |
+| 4 | Post-stroke visual correction | 200–500 ms | Eyes confirm where the ball landed vs. the SV target |
+| 5 | Anticipatory / pattern correction | Minutes (across multiple strokes) | "My last 3 forehands went long" → adjust the SV before the next stroke |
 
 **The "death by degrees" problem** — most 3.5 players make SMALL errors across 1000 strokes. **Each error is < 5% off the SV.** Cumulative effect: a stroke pattern that's 30% off the SV, but the player doesn't NOTICE because each individual error is small.
 
@@ -394,13 +378,13 @@ The diagram (Figure 3a) shows the **complete balance control loop**. Let me walk
 
 **The 5 sensor drills** (1 per channel, daily). 5 minutes × 5 sensors = 25 min/day. Combined with the 16-min routine from DD6 = ~40 min/day. **This is the full body-perception program.**
 
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
+| Channel | Daily Drill (5 min) | Source |
+| --- | --- | --- |
+| 1. Proprioception | Blink drill — track the ball normally, close eyes 0.5 s before contact, hit, hold finish 2 s, check position (20 reps) | Ch. 11 |
+| 2. Feet | Single-leg stance, feel the weight shift to the ball of the foot / big toe; vary surface if possible | Ch. 4 |
+| 3. Hands | Shadow-swing the grip-pressure wave: 3/10 at rest → 7/10 at contact → 3/10 at follow-through | Ch. 5 |
+| 4. Eyes | Quiet-eye training — fixate on the (imagined) contact zone for 0.3–0.5 s before "contact" | Ch. 6 |
+| 5. Ears + Vestibular | Slow head rotations (10 reps each direction) + single-leg stance with head turns (30 sec) | Ch. 7 |
 
 **The "blink drill"** (from source Ch.1) — the most direct exercise for "forcing" proprioception when vision is removed:
 
@@ -450,13 +434,13 @@ The diagram (Figure 3a) shows the **complete balance control loop**. Let me walk
 
 **The 5 sensor channels** visualized as a complete system:
 
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
+| Channel | Senses | Key Stat |
+| --- | --- | --- |
+| 1. Proprioception | Joint angles, muscle tension | Visual processing lag (~30–50 ms) makes proprioception the only feedback available AT contact |
+| 2. Feet | Ground contact, pressure distribution | 30 ms reflex — faster than conscious thought (~200 ms) |
+| 3. Hands | Racket grip, face angle, vibration | Vibration PV processed in ~10–30 ms |
+| 4. Eyes | Ball position, target, opponent | Elite "quiet eye" = 0.3–0.5 s fixation (vs. 0.1–0.2 s recreational) |
+| 5. Ears + Vestibular | Sound, head position, balance | Sound PV ~10–15 ms; head rotates ~120° in <0.5 s during a serve |
 
 **The feedback loop** — every sensor feeds PV to the brain, which compares to SV and adjusts:
 

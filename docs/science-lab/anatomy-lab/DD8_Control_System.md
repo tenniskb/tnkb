@@ -207,7 +207,7 @@ The control system is the **3rd layer of the kinetic chain** (after the foundati
 | **1** | **Stimulus detection** | Eye sees the ball moving. Vestibular detects head turn. Proprioception senses body position. | ~150 ms | Sense organs → spinal cord / brainstem |
 | **2** | **Decision making** | Brain decides: forehand or backhand? Move left or right? Attack or defend? | ~150-200 ms | Cortex |
 | **3** | **Motor response** | Brain sends signal to muscles. Muscles contract. Movement begins. | ~100-150 ms | Motor cortex → spinal cord → muscles |
-| **Total** |  |  | **~400-500 ms** |  |
+| **Total** | — | — | **~400-500 ms** | — |
 
 ### The Decision Layer — The Biggest Variable
 

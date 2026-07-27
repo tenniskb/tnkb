@@ -280,11 +280,11 @@ The source says (paraphrased): *"Cấu trúc cơ thể phân bố các cơ mạn
 
 **Anatomy_Lab DD4 finding** — the back is NOT one muscle. It has **3 layers totaling 40+ muscles**:
 
-|  |
-|  |
-|  |
-|  |
-|  |
+| Layer | Muscles (from Chapter 3) | Primary Role |
+| --- | --- | --- |
+| Superficial | Latissimus dorsi | Connects trunk to arm; pulls the arm across the body (backhand, serve) |
+| Intermediate (erector spinae) | Iliocostalis, longissimus, spinalis | Keeps trunk upright (extensor) and rotates the thoracic spine |
+| Deep | Multifidus, quadratus lumborum | Segmental spinal stabilization (multifidus) and lateral trunk flexion (quadratus lumborum) |
 
 | ![3-layer back anatomy](images/DD4_trunk_spine/DD4_trunk_spine_01.png) |
 | --- |

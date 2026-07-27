@@ -204,20 +204,16 @@ At 70: tendon storage = ~22 J, tendon recoil speed = ~7 m/s, amortization window
 
 # Chapter 8 — Spring Drills (5 min × 50+ friendly)
 
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
+| # | Drill | Target Spring | How-To (from this chapter) |
+| --- | --- | --- | --- |
+| 1 | Eccentric heel-drop | Achilles (heel-cord) | Calf lowering off a step, slow and controlled — increases Achilles storage 15%–25% over 12 weeks |
+| 2 | Slow Nordic curls | Patellar / hamstring | Slow eccentric hamstring lowering — progressive loading for knee-adjacent tendons |
+| 3 | Slow wrist flexions | Wrist flexor tendons | Slow, controlled wrist flexion under light load — builds the "snap" spring |
+| 4 | Dynamic stretch warm-up | All springs | Minimum 5 minutes before play; 55+ players need 8–12 minutes to reach full elastic capacity |
+| 5 | Early take-back cue | Whole kinetic chain | Start the take-back 0.1–0.2s sooner (50+) — gives tendons time to fully load without losing stroke speed |
+| 6 | "Load-snap" rhythm cue | Timing / amortization window | Tap your foot or whisper "load-snap" to train the 0.05–0.15s amortization window |
+
+*Pick drills 2, 4, and 6 for the 5-minute daily routine below.*
 
 **The 5-minute daily routine** — Pick drills 2, 4, and 6. Total time: 5 minutes. Do them daily. **In 4 weeks, your springs will feel "bouncier."** In 12 weeks, your serves and groundstrokes will be measurably faster (3–7 mph typical gain).
 
@@ -293,14 +289,13 @@ At 70: tendon storage = ~22 J, tendon recoil speed = ~7 m/s, amortization window
 
 ## 9.7 — Updated Spring Numbers Table (Anatomy_Lab Sharpened)
 
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
+| Spring / Tendon | Location | Storage Capacity | Max-Stretch Loading Angle | 50+ Adaptation Note |
+| --- | --- | --- | --- | --- |
+| Achilles tendon | Heel-cord (calf → calcaneus) | ~35 J (down to ~25 J by age 55) | ~50°–60° heel lift | Eccentric heel-drops restore 15%–25% of lost capacity in 12 weeks |
+| Patellar tendon | Knee-cord (quads → tibia) | ~20 J | ~120° knee flexion (safe loading range 50°–80°) | Stress climbs 40%–60% above 90° flexion |
+| Supraspinatus tendon | Shoulder-cord (supraspinatus → humerus) | ~5 J | ~110°–130° shoulder external rotation | Subacromial space shrinks 2–4 mm at 50+, raising impingement risk |
+| Plantar fascia (windlass) | Heel → toes (foot arch cable) | ~10% of push-off force | Triggered by big-toe extension at push-off | Limited big-toe extension costs 20%–30% push-off power |
+| Cubital tunnel (ulnar nerve channel) | Behind the elbow | N/A — nerve conduit, not an elastic-storage spring | Narrows 55% at 90° elbow flexion | Minimize time in the 90°–110° loaded L-angle; use nerve flossing, not stretching |
 
 * * *
 
