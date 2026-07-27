@@ -1,7 +1,5 @@
 site_name: Tennis Knowledge Base
 site_url: https://tenniskb.github.io/tnkb/
-repo_url: https://github.com/tenniskb/tnkb
-repo_name: tenniskb/tnkb
 
 theme:
   name: material
@@ -25,5 +23,17 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
 
+plugins:
+  - search
+  - awesome-pages
+
+extra:
+  alternate:
+    - name: English
+      link: /tnkb/
+      lang: en
+    - name: Tiếng Việt
+      link: /tnkb/vi/
+      lang: vi
 
 docs_dir: docs
