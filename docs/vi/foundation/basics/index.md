@@ -13,7 +13,7 @@ Những điều cơ bản có nhiều lớp. Những gì bạn không cảm nh�
 - [Grip — Nền Tảng và Hệ Thống Grip](./Foundations & Grip/) — bốn grip, bản đồ chuyển grip, bản đồ áp lực
 - [Backhand](./Backhand/) — two-hander, one-hander, slice
 - [Forehand](./Forehand/) — topspin hiện đại, xoay khối, tiếp xúc phía trước
-- [Serve](./Return of Serve/) — vị trí trophy, rơi đầu vợt, pronation
+- [Serve](./Serve/) — vị trí trophy, rơi đầu vợt, pronation
 - [Volley](./Volley/) — đấm, không vung, kiểm soát cơ thể
 - [Overhead](./Lob_and_Overhead/) — cú smash có tỷ lệ thành công cao nhất
 - [Đánh Đôi](./Doubles Patterns/) — pattern, đội hình, giao tiếp

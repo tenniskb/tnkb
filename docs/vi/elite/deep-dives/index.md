@@ -18,6 +18,5 @@ Khi trò chơi bắt đầu cảm thấy lặp đi lặp lại, khi chiến th�
 - [Hidden Speed](Hidden Speed/)
 - [Kinh & Mushin](Kinh & Mushin/)
 - [Pocket Card](Pocket Card/)
-- [The Dream Library](The Dream Library/)
 - [Thư Viện Mơ](Thư Viện Mơ/)
 - [Truong Luc](Truong Luc/)
