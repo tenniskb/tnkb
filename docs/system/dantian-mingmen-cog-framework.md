@@ -95,4 +95,5 @@ The Vietnamese notes bridge these vocabularies explicitly — the same text uses
 - [Recovery Mechanics](recovery-mechanics.md)
 - [Footwork Stances](footwork-stances.md)
 - [Power Wave Theory](power-wave-theory.md)
+- [The Non-Dominant Arm as Counter-Rotation Engine](non-dominant-arm-counter-rotation.md)
 - [Posterior Chain Activation](posterior-chain-activation.md)

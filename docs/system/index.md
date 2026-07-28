@@ -55,6 +55,7 @@ The mechanics underneath every module above — how force actually moves through
 - [Recovery Mechanics](recovery-mechanics.md)
 - [Weight Transfer Forward](weight-transfer-forward.md)
 - [Wrist Lag and Release](wrist-lag-and-release.md)
+- [The Non-Dominant Arm as Counter-Rotation Engine](non-dominant-arm-counter-rotation.md)
 - [Head Position and Balance](head-position-and-balance.md)
 - [45-Degree Swing System](45-degree-swing-system.md)
 - [Forehand Technique Comparison: Rublev vs. Alcaraz vs. Sinner](forehand-technique-comparison-rublev-vs-alcaraz-vs-sinner.md)

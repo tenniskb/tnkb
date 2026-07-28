@@ -106,3 +106,4 @@ Grip pressure and wrist freedom are directly linked:
 - [Kinetic Chain](kinetic-chain.md)
 - [Forehand Technique Comparison - Rublev vs Alcaraz vs Sinner](forehand-technique-comparison-rublev-vs-alcaraz-vs-sinner.md)
 - [Volley Technique - Loose Grip](volley-technique-loose-grip.md)
+- [The Non-Dominant Arm as Counter-Rotation Engine](non-dominant-arm-counter-rotation.md)
