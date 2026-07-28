@@ -33,6 +33,7 @@
 - [Dantian-Mingmen-COG Framework](dantian-mingmen-cog-framework.md) — Dantian, Mingmen, Center of Gravity
 - [Recovery Mechanics](recovery-mechanics.md)
 - [Serve Wide: Alcaraz Case](serve-wide-alcaraz.md)
+- [Phân Tích Video: Trophy Position và Tốc Độ Giao Bóng](phan-tich-video-trophy-position-giao-bong.md)
 
 ### 6. Pro players (case study)
 

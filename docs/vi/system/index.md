@@ -136,3 +136,4 @@ Những trang dưới đây được biên soạn trực tiếp từ nguồn g�
 - [Chương 1: Bản Đồ Vận Động](chuong-1-ban-do-van-dong.md) — chương mở đầu của một khung "bản đồ vận động" riêng, phân loại các mẫu hình chuyển động cơ bản.
 - [Forward Head Training](forward-head-training.md) — chương trình luyện tập cụ thể cho tư thế đầu, tỷ lệ thực hành 80/20.
 - [Serve Wide — Case Study Alcaraz](serve-wide-alcaraz.md) — phân tích tình huống giao bóng rộng của Alcaraz.
+- [Phân Tích Video: Trophy Position và Tốc Độ Giao Bóng](phan-tich-video-trophy-position-giao-bong.md) — phân tích khung-hình-theo-khung-hình 5 video (Kyrgios/Zverev/Federer, serve nữ, serve 220 km/h, so sánh nam-nữ, Alcaraz vs học viên) về vị trí khuỷu tay ở trophy position.
