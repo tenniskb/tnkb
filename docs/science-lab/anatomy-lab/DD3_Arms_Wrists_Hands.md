@@ -28,6 +28,7 @@ This DD covers the entire arm chain from shoulder to fingertip: humerus, elbow (
 | 6 | The Carpal Tunnel — Where 9 Tendons + 1 Nerve Live |
 | 7 | Grip Pressure — The 3/10 to 7/10 Rule |
 | 8 | Tendon Gliding — Daily Maintenance for Tennis Hands |
+| 9 | The ECRB and the Mechanical Side of Tennis Elbow |
 
 ---
 
@@ -366,6 +367,41 @@ This DD covers the entire arm chain from shoulder to fingertip: humerus, elbow (
 
 ---
 
+* * *
+
+## Chapter 9 — The ECRB and the Mechanical Side of Tennis Elbow
+
+Everything above on the ulnar nerve and cubital tunnel explains the NEUROLOGICAL cause of elbow pain. But most "tennis elbow" — lateral epicondylitis — isn't a nerve problem at all. It's a tendon problem, and it lives on the OUTSIDE of the elbow, not the inside where the ulnar nerve runs.
+
+**Lateral epicondylitis is a condition of the origin of the Extensor Carpi Radialis Brevis (ECRB)** — one of the wrist-extensor muscles identified in Chapter 1's forearm-muscle table. It's caused by repetitive microtrauma from eccentric loading, not acute inflammation, which is why it responds poorly to rest alone and well to targeted strengthening.
+
+### The "Leading Elbow" Fallacy
+
+A common technical error among recreational players is letting the elbow lead — flexed and positioned ahead of the body at impact, instead of staying integrated with the torso's rotation. This forces the wrist extensors, including the ECRB, to work eccentrically to stabilize the racquet head against the ball's impact force. Do that for thousands of strokes over a season and the ECRB origin accumulates the same kind of collagen damage as any other overuse tendinopathy.
+
+| Parameter | Elite Technique | Recreational Error |
+| --- | --- | --- |
+| Wrist angle at impact | ~23° extension | ~13° flexion |
+| Grip pressure | Relaxed immediately post-impact | Constant "death grip" through the shot |
+| Elbow position | Integrated with torso rotation | "Leading" the stroke, isolated from the body |
+
+Notice the wrist-angle numbers land inside the range already described in [DD1 — The Player in Motion](DD1_The_Player_in_Motion.md): 0–20° of extension at contact. A recreational player locked into 13° of *flexion* at impact isn't just losing racquet-head speed — the ECRB is being asked to eccentrically decelerate the racquet from a mechanically disadvantaged position, stroke after stroke.
+
+### The Dual-Position Strengthening Protocol
+
+Effective prevention and rehab for ECRB-based tennis elbow isn't about stretching (see Chapter 4's warning about nerve flossing vs. stretching — the same "don't just stretch it" logic applies here, for a different reason: stretching a healing tendon under active eccentric damage doesn't address the loading problem that caused it). It's a two-position strengthening program:
+
+1. **90° elbow flexion** — isolates the ECRB directly, targeting the muscle belly and origin under a shortened lever arm.
+2. **180° elbow extension** — stretches the extensor group under load, which promotes the formation of dense, resilient collagen fibers rather than the disorganized "angiofibroblastic" tissue seen in chronically degenerated tendons.
+
+Alternating both positions, rather than picking one, is what actually remodels the tendon.
+
+### Why This Matters Alongside the Ulnar Nerve Story
+
+A player with persistent elbow pain may have ECRB tendinopathy, cubital tunnel nerve compression (Chapter 2), or — as the Double Crush section already notes — both at once. The distinguishing questions: pain on the OUTSIDE of the elbow that worsens with wrist extension against resistance points to the ECRB/lateral epicondylitis mechanism in this chapter. Tingling into the ring and pinky fingers points to the ulnar nerve mechanism in Chapter 2. Treating the wrong one — stretching a nerve that needs flossing, or resting a tendon that needs progressive loading — is why "tennis elbow" so often drags on for months longer than it should.
+
+---
+
 ## 🖼️ ILLUSTRATIONS
 
 *Images from `Anatomy_Lab/images/DD3_arms_wrists_hands/` (20 total — 10 from user's Anatomy_Tay_Than_Kinh_Full.docx, 10 from Tennis Anatomy PDF Ch.3).*
@@ -439,6 +475,7 @@ This DD covers the entire arm chain from shoulder to fingertip: humerus, elbow (
 | `Human anatomy/Anatomy_Tay_Than_Kinh_Full.docx` | User's Vietnamese notes (10 images) | Ulnar nerve pathway, cubital tunnel narrowing 55%, STOP STRETCHING message, nerve flossing technique, 27 hand bones, 8 carpals in 2 rows, carpal tunnel 2 cm², 3/10 to 7/10 grip rule, tendon gliding sequence |
 | `Tennis Knowledge/7.Tennis Books in pdf/Tennis Anatomy ( PDFDrive ).pdf` Ch.3 | Reference textbook | Biceps/triceps/forearm anatomy, triceps push-down exercises, half dip, wrist curls |
 | `Tennis Knowledge/7.Tennis Books in pdf/Tennis Anatomy ( PDFDrive ).pdf` Ch.10 | Same PDF | Tennis elbow, carpal tunnel syndrome in tennis players |
+| Finestone & Rabinovitch, "Tennis elbow no more," *Canadian Family Physician* (2008), via tenniskb.github.io/tenniskb research report | Peer-reviewed reference | ECRB origin mechanism, "leading elbow" fallacy, elite-vs-recreational wrist angle data, dual-position (90°/180°) strengthening protocol |
 
 ---
 
