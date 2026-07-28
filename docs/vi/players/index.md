@@ -35,3 +35,10 @@ Một nghiên cứu tình huống phát triển tay vợt gồm mười chương
 - [Chương 8: Sinner Đối Đầu Alcaraz — Cuộc Ganh Đua Định Hình Một Thế Hệ](sinner-08-sinner-vs-alcaraz.md) — hai triết lý kỹ thuật từ cùng một cách cầm vợt, phân tích đối đầu tại các Grand Slam, và ai đang chiếm ưu thế ở đâu.
 - [Chương 9: Hành Trình Grand Slam — Những Khoảnh Khắc Quyết Định](sinner-09-grand-slam-journey.md) — cuộc lội ngược dòng tại US Open 2023, cả hai danh hiệu Australian Open, và những việc còn dang dở tại Roland Garros và Wimbledon.
 - [Chương 10: Di Sản Và Những Gì Sắp Tới](sinner-10-legacy-future.md) — ảnh hưởng đến thế hệ kế tiếp, quần vợt Ý, những so sánh với Big Three, và những rủi ro phía trước.
+
+## Chương Trình Huấn Luyện
+
+Các chương trình huấn luyện nhiều tuần, có cấu trúc, mô phỏng theo các huyền thoại — đối tác thực hành cho những nghiên cứu tình huống ở trên.
+
+- [Tổng Quan Chương Trình Huấn Luyện](training-programs/index.md) — danh sách đầy đủ, bao gồm chương trình đỡ giao bóng của Agassi (đã có) và bốn chương trình khác đang được xây dựng (Djokovic, Federer, Nadal, Sampras).
+- [Chương Trình Bậc Thầy Đỡ Giao Bóng Của Agassi](training-programs/agassi-return-mastery.md) — chương trình 10 tuần, bốn giai đoạn, xây dựng khả năng nhận diện giao bóng, định vị chủ động, và chiến thuật đỡ bóng đã được kiểm chứng dưới áp lực.

@@ -35,3 +35,10 @@ A ten-chapter development case study on Jannik Sinner — the ski-slope-to-ATP-N
 - [Chapter 8: Sinner vs. Alcaraz — The Rivalry Defining a Generation](sinner-08-sinner-vs-alcaraz.md) — two technical philosophies from the same grip, Grand Slam head-to-head breakdowns, and where each holds the edge.
 - [Chapter 9: The Grand Slam Journey — Defining Moments](sinner-09-grand-slam-journey.md) — the 2023 US Open comeback, both Australian Open titles, and the unfinished business at Roland Garros and Wimbledon.
 - [Chapter 10: Legacy and What Comes Next](sinner-10-legacy-future.md) — influence on the next generation, Italian tennis, comparisons to the Big Three, and the risks ahead.
+
+## Training Programs
+
+Structured, multi-week programs modeled on legendary players — the operational counterpart to the case studies above.
+
+- [Training Programs Overview](training-programs/index.md) — the full list, including Agassi's return-of-serve program (live) and four more in progress (Djokovic, Federer, Nadal, Sampras).
+- [Agassi Return Mastery Program](training-programs/agassi-return-mastery.md) — a 10-week, four-phase program building serve recognition, proactive positioning, and pressure-tested return tactics.
