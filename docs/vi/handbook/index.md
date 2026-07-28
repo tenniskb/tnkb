@@ -59,3 +59,4 @@ Nghiên cứu không vừa với hệ thống 30 chương nhưng mở rộng nó
 - [Học Vận Động & Sư Phạm Huấn Luyện](deep-dives/hoc-van-dong-su-pham-huan-luyen.md) — tín hiệu nội tại đối tín hiệu bên ngoài, huyền thoại trí nhớ cơ bắp, và vì sao luyện tập đa dạng đánh bại lặp lại giống hệt.
 - [Giải Phẫu Chức Năng Theo Vùng: Chuỗi Bàn Chân-Cổ Chân-Đầu Gối](deep-dives/giai-phau-chuc-nang-vung-ban-chan-co-chan-goi.md) — vì sao hầu hết vấn đề đầu gối và bàn chân trong tennis thực ra là vấn đề ở hông, truy theo từng khớp từ bàn chân ba điểm đến cơ mông giữa.
 - [Sinh Cơ Học So Sánh & Nghiên Cứu Nhà Vô Địch](deep-dives/sinh-co-hoc-so-sanh-nghien-cuu-nha-vo-dich.md) — mô hình tổng hợp Blueprint Champion, chuỗi năm pha Multiphasic Whip, và vì sao kỹ thuật chịu lỗi thắng kỹ thuật trần cao nhất.
+- [Bộ Công Cụ Điều Tiết Cảm Xúc Ứng Dụng](deep-dives/bo-cong-cu-dieu-tiet-cam-xuc-ung-dung.md) — ba yếu tố phá vỡ flow, và phác đồ grounding giác quan đã luyện tập của Neo Hiện Tại.
