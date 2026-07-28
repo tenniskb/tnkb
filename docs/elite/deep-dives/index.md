@@ -19,4 +19,4 @@ When the game starts to feel repetitive, when wins don't feel like wins, when yo
 - [Kinh & Mushin](Kinh & Mushin/)
 - [Pocket Card](Pocket Card/)
 - [The Dream Library](The Dream Library/)
-- [Truong Luc](Truong Luc/)
+- [Trương Lực](Trương Lực/)
