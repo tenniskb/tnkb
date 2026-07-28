@@ -54,3 +54,4 @@ Nghiên cứu không vừa với hệ thống 30 chương nhưng mở rộng nó
 - [Thư Viện Chuyên Sâu — Tổng Quan](deep-dives/index.md) — toàn bộ 15 chủ đề, cái nào đã có, cái nào đang chờ.
 - [Thần Kinh Học Của Sự Sụp Đổ Dưới Áp Lực, Flow, và Hiệu Suất Áp Lực](deep-dives/than-kinh-hoc-ap-luc.md) — cơ chế PFC-đối-basal-ganglia đằng sau routine tâm lý của Chương 28, và chữ ký sóng Mu/Beta của trạng thái flow.
 - [Phòng Ngừa Chấn Thương & Mô Hình Chẩn Đoán Chuỗi Động Học](deep-dives/phong-ngua-chan-thuong-chuoi-dong-hoc.md) — vì sao tennis elbow và chấn thương chóp xoay gần như không bao giờ bắt nguồn từ khớp đang đau, bốn "rò rỉ" của core, và vai trò bị bỏ quên của tập luyện phanh lệch tâm.
+- [Thăng Bằng Động & Ổn Định: Nền Tảng Vận Động Bên Dưới Mọi Split Step](deep-dives/thang-bang-dong-va-on-dinh.md) — mô hình cấu trúc bên dưới tư thế sẵn sàng và một khung tám tham số để chấm điểm split step.

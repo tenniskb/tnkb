@@ -54,3 +54,4 @@ Research that doesn't fit inside the 30-chapter system but extends it — 15 cat
 - [The Deep-Dive Library — Overview](deep-dives/index.md) — all 15 categories, what's live, and what's queued.
 - [Neuroscience of Choking, Flow & Pressure Performance](deep-dives/neuroscience-of-pressure-performance.md) — the PFC-versus-basal-ganglia mechanism behind Chapter 28's mental routine, and the Mu/Beta wave signature of flow.
 - [Injury Prevention & the Kinetic-Chain Diagnostic Model](deep-dives/injury-prevention-kinetic-chain.md) — why tennis elbow and rotator cuff injuries almost never originate at the joint that hurts, the four Core Leaks, and the neglected role of eccentric deceleration training.
+- [Dynamic Balance & Stability: The Athletic Foundation Beneath Every Split Step](deep-dives/dynamic-balance-stability-footwork.md) — the structural model beneath the ready stance and an eight-parameter framework for grading the split step.
