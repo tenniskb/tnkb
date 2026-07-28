@@ -46,3 +46,10 @@ Read it in order the first time through. After that, treat it as a reference: re
 ## Part III: Quick Reference
 
 - [30. The Unified System](30-the-unified-system.md) — the complete Q-V-ROOT-8-45-Impulse quick-reference card.
+
+## Part IV: The Deep-Dive Library
+
+Research that doesn't fit inside the 30-chapter system but extends it — 15 categories, added one at a time.
+
+- [The Deep-Dive Library — Overview](deep-dives/index.md) — all 15 categories, what's live, and what's queued.
+- [Neuroscience of Choking, Flow & Pressure Performance](deep-dives/neuroscience-of-pressure-performance.md) — the PFC-versus-basal-ganglia mechanism behind Chapter 28's mental routine, and the Mu/Beta wave signature of flow.

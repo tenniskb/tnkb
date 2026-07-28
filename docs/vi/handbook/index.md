@@ -46,3 +46,10 @@ Chương 1 đến 21 xây dựng hệ thống từng mảnh một: vấn đề m
 ## Phần III: Tham Khảo Nhanh
 
 - [30. Hệ Thống Thống Nhất](30-he-thong-thong-nhat.md) — thẻ tham khảo nhanh hoàn chỉnh Q-V-ROOT-8-45-Impulse.
+
+## Phần IV: Thư Viện Chuyên Sâu
+
+Nghiên cứu không vừa với hệ thống 30 chương nhưng mở rộng nó — 15 chủ đề, được thêm dần từng chủ đề một.
+
+- [Thư Viện Chuyên Sâu — Tổng Quan](deep-dives/index.md) — toàn bộ 15 chủ đề, cái nào đã có, cái nào đang chờ.
+- [Thần Kinh Học Của Sự Sụp Đổ Dưới Áp Lực, Flow, và Hiệu Suất Áp Lực](deep-dives/than-kinh-hoc-ap-luc.md) — cơ chế PFC-đối-basal-ganglia đằng sau routine tâm lý của Chương 28, và chữ ký sóng Mu/Beta của trạng thái flow.
