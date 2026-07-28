@@ -379,46 +379,44 @@
 
 ## 📋 Thẻ Chương — Bản In
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║  CƠ THỂ TUỔI 50+ — Ý TƯỞNG CHÍNH                           ║
-╠═══════════════════════════════════════════════════════════╣
-║                                                            ║
-║  🎯 MỘT Ý TƯỞNG LỚN
-║     7 sự suy giảm, đều có thể đo lường, đều có thể tập    ║
-║     luyện. Tennis mang tính BẢO VỆ ở tuổi 50+ nếu làm    ║
-║     đúng cách.                                              ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  7 SỰ SUY GIẢM
-║                                                            ║
-║  1. Mật độ xương
-║  2. Độ ngậm nước đĩa đệm
-║  3. Độ dày sụn
-║  4. Khối lượng cơ (sarcopenia)
-║  5. Kích thước sợi cơ Type II
-║  6. Độ cứng gân/dây chằng
-║  7. Tốc độ dẫn truyền thần kinh
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  ⚠️ LỖI HÀNG ĐẦU
-║     Ngừng chơi tennis ở tuổi 50+ vì "tuổi tác". Tennis     ║
-║     mang tính BẢO VỆ. Ngừng chơi và bạn mất nhanh hơn      ║
-║     30%–40%.                                                ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  🔁 BÀI TẬP
-║     Thói quen hằng ngày 12 phút (thăng bằng một chân,      ║
-║     hạ gót chậm, gập cổ tay chậm, xoay ngoài vai, giãn     ║
-║     cột sống ngực). Thêm tập luyện kháng lực 2 lần/tuần.  ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  💭 CUE CHỦ ĐẠO
-║     "Chơi nhiều hơn, điều chỉnh kỹ thuật, tập luyện sự     ║
-║      suy giảm, phục hồi hoàn toàn."                         ║
-║                                                            ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<div class="pocket-card">
+
+<div class="pocket-card-title">CƠ THỂ TUỔI 50+ — Ý TƯỞNG CHÍNH</div>
+
+<div class="pocket-card-section">
+<strong>🎯 MỘT Ý TƯỞNG LỚN</strong>
+<p>7 sự suy giảm, đều có thể đo lường, đều có thể tập luyện. Tennis mang tính BẢO VỆ ở tuổi 50+ nếu làm đúng cách.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>7 SỰ SUY GIẢM</strong>
+<ul>
+<li>Mật độ xương</li>
+<li>Độ ngậm nước đĩa đệm</li>
+<li>Độ dày sụn</li>
+<li>Khối lượng cơ (sarcopenia)</li>
+<li>Kích thước sợi cơ Type II</li>
+<li>Độ cứng gân/dây chằng</li>
+<li>Tốc độ dẫn truyền thần kinh</li>
+</ul>
+</div>
+
+<div class="pocket-card-section">
+<strong>⚠️ LỖI HÀNG ĐẦU</strong>
+<p>Ngừng chơi tennis ở tuổi 50+ vì "tuổi tác". Tennis mang tính BẢO VỆ. Ngừng chơi và bạn mất nhanh hơn 30%–40%.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>🔁 BÀI TẬP</strong>
+<p>Thói quen hằng ngày 12 phút (thăng bằng một chân, hạ gót chậm, gập cổ tay chậm, xoay ngoài vai, giãn cột sống ngực). Thêm tập luyện kháng lực 2 lần/tuần.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>💭 CUE CHỦ ĐẠO</strong>
+<p>"Chơi nhiều hơn, điều chỉnh kỹ thuật, tập luyện sự suy giảm, phục hồi hoàn toàn."</p>
+</div>
+
+</div>
 
 * * *
 

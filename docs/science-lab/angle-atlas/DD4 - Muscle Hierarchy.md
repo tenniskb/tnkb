@@ -332,44 +332,36 @@ The source says (paraphrased): *"Cấu trúc cơ thể phân bố các cơ mạn
 
 ## 📋 Chapter Card — Printable
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║  MUSCLE HIERARCHY — KEY IDEAS                             ║
-╠═══════════════════════════════════════════════════════════╣
-║                                                            ║
-║  🎯 ONE BIG IDEA
-║     Strong muscles fire FIRST, fast muscles fire LAST.    ║
-║     The tennis swing is a RELAY: slow-strong → fast-small. ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  KEY MUSCLES PER STROKE
-║                                                            ║
-║  Forehand: Glute max, External oblique, Pectoralis major, ║
-║            Triceps, Flexor carpi radialis                  ║
-║  Backhand: Pectoralis major, Latissimus dorsi, External   ║
-║            oblique, Triceps, Flexor carpi radialis         ║
-║  Serve:    Gastrocnemius, Quadriceps, Pectoralis major,   ║
-║            Lat dorsi, Triceps, Flexor carpi radialis      ║
-║  Volley:   Anterior deltoid, Biceps (hold), Triceps       ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  ⚠️ TOP MISTAKE
-║     Trying to use ARM muscles for groundstroke power.     ║
-║     Arms are 3rd-leg muscles (small/fast). Legs and core  ║
-║     are 1st-leg (big/strong). Use the relay.              ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  🔁 DRILL
-║     Slow-motion forehand with audio cue. Say muscle       ║
-║     names out loud as you swing: "glute, oblique, pec,    ║
-║     triceps, wrist." 20 reps daily.                       ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  💭 MASTER CUE
-║     "Strong to fast, segment by segment."                 ║
-║                                                            ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<div class="pocket-card">
+
+<div class="pocket-card-title">MUSCLE HIERARCHY — KEY IDEAS</div>
+
+<div class="pocket-card-section">
+<strong>🎯 ONE BIG IDEA</strong>
+<p>Strong muscles fire FIRST, fast muscles fire LAST. The tennis swing is a RELAY: slow-strong → fast-small.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>KEY MUSCLES PER STROKE</strong>
+<p>Forehand: Glute max, External oblique, Pectoralis major, Triceps, Flexor carpi radialis Backhand: Pectoralis major, Latissimus dorsi, External oblique, Triceps, Flexor carpi radialis Serve:    Gastrocnemius, Quadriceps, Pectoralis major, Lat dorsi, Triceps, Flexor carpi radialis Volley:   Anterior deltoid, Biceps (hold), Triceps</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>⚠️ TOP MISTAKE</strong>
+<p>Trying to use ARM muscles for groundstroke power. Arms are 3rd-leg muscles (small/fast). Legs and core are 1st-leg (big/strong). Use the relay.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>🔁 DRILL</strong>
+<p>Slow-motion forehand with audio cue. Say muscle names out loud as you swing: "glute, oblique, pec, triceps, wrist." 20 reps daily.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>💭 MASTER CUE</strong>
+<p>"Strong to fast, segment by segment."</p>
+</div>
+
+</div>
 
 * * *
 

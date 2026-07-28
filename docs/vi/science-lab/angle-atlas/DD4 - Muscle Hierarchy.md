@@ -332,45 +332,36 @@ Nguồn nói (diễn giải): *"Cấu trúc cơ thể phân bố các cơ mạnh
 
 ## 📋 Thẻ Chương — Bản In
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║  THỨ BẬC CƠ BẮP — Ý TƯỞNG CHÍNH                            ║
-╠═══════════════════════════════════════════════════════════╣
-║                                                            ║
-║  🎯 MỘT Ý TƯỞNG LỚN
-║     Cơ mạnh kích hoạt TRƯỚC, cơ nhanh kích hoạt SAU.       ║
-║     Cú vung tennis là một CUỘC TIẾP SỨC: chậm-mạnh →       ║
-║     nhanh-nhỏ.                                              ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  CÁC CƠ CHÍNH THEO TỪNG CÚ ĐÁNH
-║                                                            ║
-║  Thuận tay: Cơ mông lớn, cơ chéo ngoài, cơ ngực lớn,      ║
-║             cơ tam đầu, cơ gấp cổ tay quay                 ║
-║  Trái tay: Cơ ngực lớn, cơ lưng rộng, cơ chéo ngoài,      ║
-║             cơ tam đầu, cơ gấp cổ tay quay                 ║
-║  Giao bóng: Cơ bụng chân, cơ tứ đầu đùi, cơ ngực lớn,     ║
-║             cơ lưng rộng, cơ tam đầu, cơ gấp cổ tay quay   ║
-║  Vô-lê:    Cơ delta trước, cơ nhị đầu (giữ), cơ tam đầu   ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  ⚠️ LỖI HÀNG ĐẦU
-║     Cố dùng cơ CÁNH TAY để tạo sức mạnh cho cú đánh nền.  ║
-║     Cánh tay là cơ "chặng 3" (nhỏ/nhanh). Chân và core là ║
-║     "chặng 1" (lớn/mạnh). Hãy dùng cuộc tiếp sức.          ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  🔁 BÀI TẬP
-║     Cú thuận tay quay chậm kèm cue âm thanh. Nói to tên   ║
-║     các cơ khi bạn vung: "mông, chéo bụng, ngực, tam đầu,  ║
-║     cổ tay." 20 lần lặp mỗi ngày.                          ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  💭 CUE CHỦ ĐẠO
-║     "Từ mạnh đến nhanh, theo từng đoạn."                   ║
-║                                                            ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<div class="pocket-card">
+
+<div class="pocket-card-title">THỨ BẬC CƠ BẮP — Ý TƯỞNG CHÍNH</div>
+
+<div class="pocket-card-section">
+<strong>🎯 MỘT Ý TƯỞNG LỚN</strong>
+<p>Cơ mạnh kích hoạt TRƯỚC, cơ nhanh kích hoạt SAU. Cú vung tennis là một CUỘC TIẾP SỨC: chậm-mạnh → nhanh-nhỏ.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>CÁC CƠ CHÍNH THEO TỪNG CÚ ĐÁNH</strong>
+<p>Thuận tay: Cơ mông lớn, cơ chéo ngoài, cơ ngực lớn, cơ tam đầu, cơ gấp cổ tay quay Trái tay: Cơ ngực lớn, cơ lưng rộng, cơ chéo ngoài, cơ tam đầu, cơ gấp cổ tay quay Giao bóng: Cơ bụng chân, cơ tứ đầu đùi, cơ ngực lớn, cơ lưng rộng, cơ tam đầu, cơ gấp cổ tay quay Vô-lê:    Cơ delta trước, cơ nhị đầu (giữ), cơ tam đầu</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>⚠️ LỖI HÀNG ĐẦU</strong>
+<p>Cố dùng cơ CÁNH TAY để tạo sức mạnh cho cú đánh nền. Cánh tay là cơ "chặng 3" (nhỏ/nhanh). Chân và core là "chặng 1" (lớn/mạnh). Hãy dùng cuộc tiếp sức.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>🔁 BÀI TẬP</strong>
+<p>Cú thuận tay quay chậm kèm cue âm thanh. Nói to tên các cơ khi bạn vung: "mông, chéo bụng, ngực, tam đầu, cổ tay." 20 lần lặp mỗi ngày.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>💭 CUE CHỦ ĐẠO</strong>
+<p>"Từ mạnh đến nhanh, theo từng đoạn."</p>
+</div>
+
+</div>
 
 * * *
 

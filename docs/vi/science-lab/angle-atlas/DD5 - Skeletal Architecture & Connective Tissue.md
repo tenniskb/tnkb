@@ -318,48 +318,36 @@
 
 ## 📋 Thẻ Chương — Bản In
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║  KIẾN TRÚC XƯƠNG — Ý TƯỞNG CHÍNH                           ║
-╠═══════════════════════════════════════════════════════════╣
-║                                                            ║
-║  🎯 MỘT Ý TƯỞNG LỚN
-║     Cánh tay là đòn bẩy Loại 3 (lực tác động ở giữa).      ║
-║     Nó hy sinh lực để lấy tốc độ. Chân và core tạo         ║
-║     ra lực; cánh tay khuếch đại tốc độ.                    ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  CÁC XƯƠNG CHÍNH THEO TỪNG VÙNG
-║                                                            ║
-║  Thân dưới: Xương đùi (đòn bẩy 5:1), xương chày,          ║
-║             xương bánh chè (ròng rọc)                       ║
-║  Khung chậu: Xương chậu + xương ngồi + xương mu +         ║
-║              xương cùng (khớp SI)                           ║
-║  Cột sống: 24 di động + 9 hợp nhất = 33 đốt sống          ║
-║  Vai: Xương đòn + xương bả vai (tổng 4 khớp)              ║
-║  Cánh tay: Xương cánh tay + xương trụ + xương quay        ║
-║           (xoắn cẳng tay)                                   ║
-║  Cổ tay: 8 xương cổ tay trong 2 hàng + đệm TFCC           ║
-║  Bàn tay: 5 xương bàn tay + 14 xương ngón                 ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  ⚠️ LỖI HÀNG ĐẦU
-║     Tập luyện cánh tay để lấy sức mạnh (gập cơ nhị đầu,   ║
-║     duỗi cơ tam đầu) thay vì chân (squat, lunge). Cánh    ║
-║     tay là đòn bẩy loại 3 — chúng khuếch đại tốc độ,      ║
-║     không phải lực. Hãy tập luyện chân để lấy sức mạnh.   ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  🔁 BÀI TẬP
-║     Giữ thăng bằng một chân, nhắm mắt, 30 giây × 3 lần    ║
-║     mỗi bên. Tập luyện khớp SI + cảm nhận bản thể.        ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  💭 CUE CHỦ ĐẠO
-║     "Tôn trọng bộ xương. Điều chỉnh cú đánh."              ║
-║                                                            ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<div class="pocket-card">
+
+<div class="pocket-card-title">KIẾN TRÚC XƯƠNG — Ý TƯỞNG CHÍNH</div>
+
+<div class="pocket-card-section">
+<strong>🎯 MỘT Ý TƯỞNG LỚN</strong>
+<p>Cánh tay là đòn bẩy Loại 3 (lực tác động ở giữa). Nó hy sinh lực để lấy tốc độ. Chân và core tạo ra lực; cánh tay khuếch đại tốc độ.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>CÁC XƯƠNG CHÍNH THEO TỪNG VÙNG</strong>
+<p>Thân dưới: Xương đùi (đòn bẩy 5:1), xương chày, xương bánh chè (ròng rọc) Khung chậu: Xương chậu + xương ngồi + xương mu + xương cùng (khớp SI) Cột sống: 24 di động + 9 hợp nhất = 33 đốt sống Vai: Xương đòn + xương bả vai (tổng 4 khớp) Cánh tay: Xương cánh tay + xương trụ + xương quay (xoắn cẳng tay) Cổ tay: 8 xương cổ tay trong 2 hàng + đệm TFCC Bàn tay: 5 xương bàn tay + 14 xương ngón</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>⚠️ LỖI HÀNG ĐẦU</strong>
+<p>Tập luyện cánh tay để lấy sức mạnh (gập cơ nhị đầu, duỗi cơ tam đầu) thay vì chân (squat, lunge). Cánh tay là đòn bẩy loại 3 — chúng khuếch đại tốc độ, không phải lực. Hãy tập luyện chân để lấy sức mạnh.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>🔁 BÀI TẬP</strong>
+<p>Giữ thăng bằng một chân, nhắm mắt, 30 giây × 3 lần mỗi bên. Tập luyện khớp SI + cảm nhận bản thể.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>💭 CUE CHỦ ĐẠO</strong>
+<p>"Tôn trọng bộ xương. Điều chỉnh cú đánh."</p>
+</div>
+
+</div>
 
 * * *
 

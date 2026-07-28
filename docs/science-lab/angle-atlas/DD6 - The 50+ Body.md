@@ -347,44 +347,44 @@
 
 ## 📋 Chapter Card — Printable
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║  THE 50+ BODY — KEY IDEAS                                 ║
-╠═══════════════════════════════════════════════════════════╣
-║                                                            ║
-║  🎯 ONE BIG IDEA
-║     7 declines, all measurable, all trainable.            ║
-║     Tennis is PROTECTIVE at 50+ if done right.             ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  THE 7 DECLINES
-║                                                            ║
-║  1. Bone density
-║  2. Disc hydration
-║  3. Cartilage thickness
-║  4. Muscle mass (sarcopenia)
-║  5. Type II fiber size
-║  6. Tendon/ligament stiffness
-║  7. Nerve conduction velocity
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  ⚠️ TOP MISTAKE
-║     Stopping tennis at 50+ because of "age." Tennis is    ║
-║     PROTECTIVE. Stop and you lose 30%–40% faster.        ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  🔁 DRILL
-║     12-minute daily routine (single-leg balance, slow      ║
-║     heel drops, slow wrist flexions, shoulder ER, T-spine  ║
-║     stretch). Add 2x/week resistance training.             ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  💭 MASTER CUE
-║     "Play more, modify technique, train the decline,       ║
-║      recover fully."                                       ║
-║                                                            ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<div class="pocket-card">
+
+<div class="pocket-card-title">THE 50+ BODY — KEY IDEAS</div>
+
+<div class="pocket-card-section">
+<strong>🎯 ONE BIG IDEA</strong>
+<p>7 declines, all measurable, all trainable. Tennis is PROTECTIVE at 50+ if done right.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>THE 7 DECLINES</strong>
+<ul>
+<li>Bone density</li>
+<li>Disc hydration</li>
+<li>Cartilage thickness</li>
+<li>Muscle mass (sarcopenia)</li>
+<li>Type II fiber size</li>
+<li>Tendon/ligament stiffness</li>
+<li>Nerve conduction velocity</li>
+</ul>
+</div>
+
+<div class="pocket-card-section">
+<strong>⚠️ TOP MISTAKE</strong>
+<p>Stopping tennis at 50+ because of "age." Tennis is PROTECTIVE. Stop and you lose 30%–40% faster.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>🔁 DRILL</strong>
+<p>12-minute daily routine (single-leg balance, slow heel drops, slow wrist flexions, shoulder ER, T-spine stretch). Add 2x/week resistance training.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>💭 MASTER CUE</strong>
+<p>"Play more, modify technique, train the decline, recover fully."</p>
+</div>
+
+</div>
 
 * * *
 

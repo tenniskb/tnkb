@@ -318,45 +318,36 @@
 
 ## 📋 Chapter Card — Printable
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║  SKELETAL ARCHITECTURE — KEY IDEAS                        ║
-╠═══════════════════════════════════════════════════════════╣
-║                                                            ║
-║  🎯 ONE BIG IDEA
-║     The arm is a Class 3 lever (effort in middle).         ║
-║     It sacrifices force for speed. Legs and core          ║
-║     produce the force; arm amplifies the speed.            ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  KEY BONES PER REGION
-║                                                            ║
-║  Lower body: Femur (5:1 lever), Tibia, Patella (pulley)   ║
-║  Pelvis: Ilium + Ischium + Pubis + Sacrum (SI joint)     ║
-║  Spine: 24 movable + 9 fused = 33 vertebrae               ║
-║  Shoulder: Clavicle + Scapula (4 joints total)           ║
-║  Arm: Humerus + Ulna + Radius (forearm twist)             ║
-║  Wrist: 8 carpals in 2 rows + TFCC cushion                ║
-║  Hand: 5 metacarpals + 14 phalanges                       ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  ⚠️ TOP MISTAKE
-║     Training arms for power (biceps curls, triceps         ║
-║     extensions) instead of legs (squats, lunges).         ║
-║     Arms are 3rd-class levers — they amplify speed,       ║
-║     not force. Train the legs for power.                   ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  🔁 DRILL
-║     Single-leg balance with eyes closed, 30 seconds × 3   ║
-║     per side. Trains SI joint + proprioception.           ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  💭 MASTER CUE
-║     "Respect the skeleton. Adapt the stroke."             ║
-║                                                            ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<div class="pocket-card">
+
+<div class="pocket-card-title">SKELETAL ARCHITECTURE — KEY IDEAS</div>
+
+<div class="pocket-card-section">
+<strong>🎯 ONE BIG IDEA</strong>
+<p>The arm is a Class 3 lever (effort in middle). It sacrifices force for speed. Legs and core produce the force; arm amplifies the speed.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>KEY BONES PER REGION</strong>
+<p>Lower body: Femur (5:1 lever), Tibia, Patella (pulley) Pelvis: Ilium + Ischium + Pubis + Sacrum (SI joint) Spine: 24 movable + 9 fused = 33 vertebrae Shoulder: Clavicle + Scapula (4 joints total) Arm: Humerus + Ulna + Radius (forearm twist) Wrist: 8 carpals in 2 rows + TFCC cushion Hand: 5 metacarpals + 14 phalanges</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>⚠️ TOP MISTAKE</strong>
+<p>Training arms for power (biceps curls, triceps extensions) instead of legs (squats, lunges). Arms are 3rd-class levers — they amplify speed, not force. Train the legs for power.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>🔁 DRILL</strong>
+<p>Single-leg balance with eyes closed, 30 seconds × 3 per side. Trains SI joint + proprioception.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>💭 MASTER CUE</strong>
+<p>"Respect the skeleton. Adapt the stroke."</p>
+</div>
+
+</div>
 
 * * *
 

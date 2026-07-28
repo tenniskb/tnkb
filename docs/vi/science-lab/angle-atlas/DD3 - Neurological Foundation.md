@@ -347,46 +347,43 @@
 
 ## 📋 Thẻ Chương — Bản In
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║  NỀN TẢNG THẦN KINH — Ý TƯỞNG CHÍNH                        ║
-╠═══════════════════════════════════════════════════════════╣
-║                                                            ║
-║  🎯 MỘT Ý TƯỞNG LỚN
-║     Nút thắt cổ chai thời gian phản ứng là bước RA        ║
-║     QUYẾT ĐỊNH, không phải đôi chân. Tập luyện não bằng   ║
-║     các bài tập ngẫu nhiên và cơ thể sẽ theo sau.          ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  CÁC CON SỐ CHÍNH
-║                                                            ║
-║  • Tổng thời gian phản ứng: 0,45–0,95 giây với trình 4.0  ║
-║  • Thời gian ra quyết định: 0,10–0,30 giây (nút thắt)     ║
-║  • Thời lượng mắt tĩnh lặng: 0,3–0,5 giây (đỉnh cao),     ║
-║    0,1–0,2 giây (phong trào)                               ║
-║  • Thời gian phản xạ VOR: ~0,015 giây (ổn định chuyển     ║
-║    động đầu)                                                ║
-║  • Thời gian phản xạ kéo giãn: ~0,05 giây (lớp split-step)║
-║  • Độ chính xác cảm nhận bản thể: 2°–5° ở mức khớp        ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  ⚠️ LỖI HÀNG ĐẦU
-║     Chỉ tập luyện cơ bắp. Khoảng cách 0,20 giây giữa       ║
-║     trình 3.5 và 4.5 chủ yếu là thời gian ra quyết định.   ║
-║     Hãy tập luyện não bộ.                                  ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  🔁 BÀI TẬP
-║     Bạn tập ngẫu nhiên hô "thuận tay!" / "trái tay!" ngay ║
-║     trước khi họ đánh bóng. Bạn phản ứng và hô lại lựa    ║
-║     chọn cú đánh. 50 lần lặp × 3 buổi/tuần.                ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  💭 CUE CHỦ ĐẠO
-║     "Tập luyện quyết định. Đôi chân vẫn ổn."               ║
-║                                                            ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<div class="pocket-card">
+
+<div class="pocket-card-title">NỀN TẢNG THẦN KINH — Ý TƯỞNG CHÍNH</div>
+
+<div class="pocket-card-section">
+<strong>🎯 MỘT Ý TƯỞNG LỚN</strong>
+<p>Nút thắt cổ chai thời gian phản ứng là bước RA QUYẾT ĐỊNH, không phải đôi chân. Tập luyện não bằng các bài tập ngẫu nhiên và cơ thể sẽ theo sau.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>CÁC CON SỐ CHÍNH</strong>
+<ul>
+<li>Tổng thời gian phản ứng: 0,45–0,95 giây với trình 4.0</li>
+<li>Thời gian ra quyết định: 0,10–0,30 giây (nút thắt)</li>
+<li>Thời lượng mắt tĩnh lặng: 0,3–0,5 giây (đỉnh cao), 0,1–0,2 giây (phong trào)</li>
+<li>Thời gian phản xạ VOR: ~0,015 giây (ổn định chuyển động đầu)</li>
+<li>Thời gian phản xạ kéo giãn: ~0,05 giây (lớp split-step)</li>
+<li>Độ chính xác cảm nhận bản thể: 2°–5° ở mức khớp</li>
+</ul>
+</div>
+
+<div class="pocket-card-section">
+<strong>⚠️ LỖI HÀNG ĐẦU</strong>
+<p>Chỉ tập luyện cơ bắp. Khoảng cách 0,20 giây giữa trình 3.5 và 4.5 chủ yếu là thời gian ra quyết định. Hãy tập luyện não bộ.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>🔁 BÀI TẬP</strong>
+<p>Bạn tập ngẫu nhiên hô "thuận tay!" / "trái tay!" ngay trước khi họ đánh bóng. Bạn phản ứng và hô lại lựa chọn cú đánh. 50 lần lặp × 3 buổi/tuần.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>💭 CUE CHỦ ĐẠO</strong>
+<p>"Tập luyện quyết định. Đôi chân vẫn ổn."</p>
+</div>
+
+</div>
 
 * * *
 

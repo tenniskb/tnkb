@@ -510,42 +510,42 @@ For 3.5 → 4.5 players, this is the unlock. At 3.5, you copy form. At 4.0, you 
 
 ## 📋 Chapter Card — Printable
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║  THE ANGLE ATLAS — KEY IDEAS                              ║
-╠═══════════════════════════════════════════════════════════╣
-║                                                            ║
-║  🎯 ONE BIG IDEA
-║     Stroke type = angles at contact.                      ║
-║     Stroke quality = angles during kinetic chain.         ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  KEY ANGLES TO REMEMBER
-║                                                            ║
-║  • Knee flex: 120°–135° forehand, 130°–140° serve         ║
-║  • Hip-torso: 50°–65° forehand, <25° lumbar extension    ║
-║  • Shoulder ER: 110°–130° serve, 80°–100° forehand        ║
-║  • Wrist ext: 90°–110° LOADED, 0°–20° at CONTACT          ║
-║  • Wrist flex: 20°–40° POST-contact for topspin           ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  ⚠️ TOP MISTAKE
-║     Confusing LOADED angles (90°+ wrist) with CONTACT     ║
-║     angles (0°–20° wrist). Players stay loose at impact,  ║
-║     lose ~30 kg of force, hit floaters.                   ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  🔁 DRILL
-║     Film yourself from the side (sagittal) and from above  ║
-║     (horizontal). Pause at LOADED position. Compare 3     ║
-║     numbers to the table. Find the missing angle.         ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  💭 MASTER CUE
-║     "Don't ask what to do. Ask what angle to create."     ║
-║                                                            ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<div class="pocket-card">
+
+<div class="pocket-card-title">THE ANGLE ATLAS — KEY IDEAS</div>
+
+<div class="pocket-card-section">
+<strong>🎯 ONE BIG IDEA</strong>
+<p>Stroke type = angles at contact. Stroke quality = angles during kinetic chain.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>KEY ANGLES TO REMEMBER</strong>
+<ul>
+<li>Knee flex: 120°–135° forehand, 130°–140° serve</li>
+<li>Hip-torso: 50°–65° forehand, &lt;25° lumbar extension</li>
+<li>Shoulder ER: 110°–130° serve, 80°–100° forehand</li>
+<li>Wrist ext: 90°–110° LOADED, 0°–20° at CONTACT</li>
+<li>Wrist flex: 20°–40° POST-contact for topspin</li>
+</ul>
+</div>
+
+<div class="pocket-card-section">
+<strong>⚠️ TOP MISTAKE</strong>
+<p>Confusing LOADED angles (90°+ wrist) with CONTACT angles (0°–20° wrist). Players stay loose at impact, lose ~30 kg of force, hit floaters.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>🔁 DRILL</strong>
+<p>Film yourself from the side (sagittal) and from above (horizontal). Pause at LOADED position. Compare 3 numbers to the table. Find the missing angle.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>💭 MASTER CUE</strong>
+<p>"Don't ask what to do. Ask what angle to create."</p>
+</div>
+
+</div>
 
 * * *
 

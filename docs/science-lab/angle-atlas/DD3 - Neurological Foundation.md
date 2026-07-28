@@ -354,44 +354,43 @@
 
 ## 📋 Chapter Card — Printable
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║  NEUROLOGICAL FOUNDATION — KEY IDEAS                      ║
-╠═══════════════════════════════════════════════════════════╣
-║                                                            ║
-║  🎯 ONE BIG IDEA
-║     Reaction time bottleneck is the DECISION step,         ║
-║     not the legs. Train the brain with random             ║
-║     drills and the body follows.                          ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  KEY NUMBERS
-║                                                            ║
-║  • Total reaction time: 0.45–0.95s for 4.0 player         ║
-║  • Decision time: 0.10–0.30s (the bottleneck)             ║
-║  • Quiet eye duration: 0.3–0.5s (elite), 0.1–0.2s (rec)  ║
-║  • VOR reflex time: ~0.015s (head-motion stabilizer)       ║
-║  • Stretch reflex time: ~0.05s (split-step layer)         ║
-║  • Proprioception accuracy: 2°–5° at joint level           ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  ⚠️ TOP MISTAKE
-║     Training only muscles. The 0.20s gap between 3.5      ║
-║     and 4.5 is mostly decision time. Train the brain.      ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  🔁 DRILL
-║     Partner randomly calls "forehand!" / "backhand!"      ║
-║     just before they hit a ball. You react and call       ║
-║     back the shot choice. 50 reps × 3 sessions/week.      ║
-"backhand!"     ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  💭 MASTER CUE
-║     "Train the decision. The legs are fine."              ║
-║                                                            ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<div class="pocket-card">
+
+<div class="pocket-card-title">NEUROLOGICAL FOUNDATION — KEY IDEAS</div>
+
+<div class="pocket-card-section">
+<strong>🎯 ONE BIG IDEA</strong>
+<p>Reaction time bottleneck is the DECISION step, not the legs. Train the brain with random drills and the body follows.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>KEY NUMBERS</strong>
+<ul>
+<li>Total reaction time: 0.45–0.95s for 4.0 player</li>
+<li>Decision time: 0.10–0.30s (the bottleneck)</li>
+<li>Quiet eye duration: 0.3–0.5s (elite), 0.1–0.2s (rec)</li>
+<li>VOR reflex time: ~0.015s (head-motion stabilizer)</li>
+<li>Stretch reflex time: ~0.05s (split-step layer)</li>
+<li>Proprioception accuracy: 2°–5° at joint level</li>
+</ul>
+</div>
+
+<div class="pocket-card-section">
+<strong>⚠️ TOP MISTAKE</strong>
+<p>Training only muscles. The 0.20s gap between 3.5 and 4.5 is mostly decision time. Train the brain.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>🔁 DRILL</strong>
+<p>Partner randomly calls "forehand!" / "backhand!" just before they hit a ball. You react and call back the shot choice. 50 reps × 3 sessions/week. "backhand!"</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>💭 MASTER CUE</strong>
+<p>"Train the decision. The legs are fine."</p>
+</div>
+
+</div>
 
 * * *
 

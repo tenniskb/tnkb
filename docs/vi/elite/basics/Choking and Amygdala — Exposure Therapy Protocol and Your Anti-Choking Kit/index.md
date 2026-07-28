@@ -76,65 +76,43 @@ Một nhà tâm lý thể thao làm việc với các công cụ dựa trên b�
 
 ## Thẻ Kit Chống Choking Của Bạn
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║ KIT CHỐNG CHOKING — 3 CÔNG CỤ + 2 NỖI KINH HOÀNG ║
-╠═══════════════════════════════════════════════════════════════╣
-║ ║
-║ BỘ 3 CÔNG CỤ (giữa mỗi điểm, 60-90 giây) ║
-║ Công cụ 1: Kiểm Kình (5 câu hỏi, 5 giây) ║
-║ Công cụ 2: Cò Mushin cá nhân (của bạn, đã chọn) ║
-║ Công cụ 3: Thở hộp 4-4-4-4 (3 chu kỳ) ║
-║ ║
-║ 2 NỖI KINH HOÀNG CỦA TÔI: ║
-║ Nỗi KH 1: ___________________________________________ ║
-║ Nỗi KH 2: ___________________________________________ ║
-║ ║
-║ BÀI TIÊM CHỦNG NỖI KH 1: ║
-║ Thiết kế: ____________________________________________ ║
-║ Tần suất: ___/tuần ║
-║ Phản ứng hiện tại (1-10): ____ ║
-║ ║
-║ BÀI TIÊM CHỦNG NỖI KH 2: ║
-║ Thiết kế: ____________________________________________ ║
-║ Tần suất: ___/tuần ║
-║ Phản ứng hiện tại (1-10): ____ ║
-║ ║
-║ 3 PHA 90 NGÀY: ║
-║ Pha 1 (Ngày 1-30): Bậc 1-2 ║
-║ Pha 2 (Ngày 31-60): Bậc 3 + bộ kit đầy đủ ║
-║ Pha 3 (Ngày 61-90): Bậc 4-5 (trận thật) ║
-║ ║
-║ NGƯỠNG CẦN GIÚP CHUYÊN NGHIỆP: ║
-║ ☐ Ảnh hưởng cuộc sống ngoài tennis ║
-║ ☐ Cơn hoảng loạn trong trận đấu ║
-║ ☐ Suy nghĩ xâm nhập kéo dài >30 giây ║
-║ ☐ Mất niềm vui trong tennis hoàn toàn ║
-║ ☐ Gián đoạn giấc ngủ trước trận, nhiều tuần ║
-║ NẾU CÓ BẤT KỲ Ô NÀO → gặp nhà tâm lý thể thao ║
-║ ║
-║ TÍN HIỆU CHỦ ĐẠO: ║
-║ "Kình, cò, thở. Ba công cụ. Sáu mươi giây." ║
-║ ║
-╚═══════════════════════════════════════════════════════════════╝
+<div class="pocket-card">
 
-╔═══════════════════════════════════════════════════════════════╗
-║ KIT CHỐNG CHOKING — PHIÊN BẢN BỎ TÚI ║
-╠═══════════════════════════════════════════════════════════════╣
-║ ║
-║ BỘ 3 CÔNG CỤ (60-90 giây giữa các điểm): ║
-║ 1. Kiểm Kình (5 giây) ║
-║ 2. Cò Mushin cá nhân ║
-║ 3. Thở hộp 4-4-4-4 ║
-║ ║
-║ 2 NỖI KINH HOÀNG CỦA TÔI: ║
-║ 1. _____________________________________________ ║
-║ 2. _____________________________________________ ║
-║ ║
-║ "Kình, cò, thở. Ba công cụ. Sáu mươi giây." ║
-║ ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+<div class="pocket-card-title">KIT CHỐNG CHOKING — 3 CÔNG CỤ + 2 NỖI KINH HOÀNG</div>
+
+<div class="pocket-card-section">
+<strong>BỘ 3 CÔNG CỤ (giữa mỗi điểm, 60-90 giây)</strong>
+<p>Công cụ 1: Kiểm Kình (5 câu hỏi, 5 giây) Công cụ 2: Cò Mushin cá nhân (của bạn, đã chọn) Công cụ 3: Thở hộp 4-4-4-4 (3 chu kỳ)</p>
+<p>2 NỖI KINH HOÀNG CỦA TÔI: Nỗi KH 1: ___________________________________________ Nỗi KH 2: ___________________________________________</p>
+<p>BÀI TIÊM CHỦNG NỖI KH 1: Thiết kế: ____________________________________________ Tần suất: ___/tuần Phản ứng hiện tại (1-10): ____</p>
+<p>BÀI TIÊM CHỦNG NỖI KH 2: Thiết kế: ____________________________________________ Tần suất: ___/tuần Phản ứng hiện tại (1-10): ____</p>
+<p>3 PHA 90 NGÀY: Pha 1 (Ngày 1-30): Bậc 1-2 Pha 2 (Ngày 31-60): Bậc 3 + bộ kit đầy đủ Pha 3 (Ngày 61-90): Bậc 4-5 (trận thật)</p>
+<p>NGƯỠNG CẦN GIÚP CHUYÊN NGHIỆP: ☐ Ảnh hưởng cuộc sống ngoài tennis ☐ Cơn hoảng loạn trong trận đấu ☐ Suy nghĩ xâm nhập kéo dài &gt;30 giây ☐ Mất niềm vui trong tennis hoàn toàn ☐ Gián đoạn giấc ngủ trước trận, nhiều tuần NẾU CÓ BẤT KỲ Ô NÀO → gặp nhà tâm lý thể thao</p>
+<p>TÍN HIỆU CHỦ ĐẠO: "Kình, cò, thở. Ba công cụ. Sáu mươi giây."</p>
+</div>
+
+</div>
+
+<div class="pocket-card">
+
+<div class="pocket-card-title">KIT CHỐNG CHOKING — PHIÊN BẢN BỎ TÚI</div>
+
+<div class="pocket-card-section">
+<strong>BỘ 3 CÔNG CỤ (60-90 giây giữa các điểm):</strong>
+<ul>
+<li>Kiểm Kình (5 giây)</li>
+<li>Cò Mushin cá nhân</li>
+<li>Thở hộp 4-4-4-4</li>
+</ul>
+<ul>
+<li>2 NỖI KINH HOÀNG CỦA TÔI:</li>
+<li>_____________________________________________</li>
+<li>_____________________________________________</li>
+</ul>
+<p>"Kình, cò, thở. Ba công cụ. Sáu mươi giây."</p>
+</div>
+
+</div>
 
 ## Lời Cuối
 

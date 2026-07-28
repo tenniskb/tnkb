@@ -86,80 +86,66 @@ Overriding the signal with willpower. Your HRV says yellow, but you really want 
 
 ## Your HRV Dashboard Card
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║ THE HRV DASHBOARD — YOUR DAILY BIO-INFORMED SYSTEM ║
-╠═══════════════════════════════════════════════════════════════╣
-║ ║
-║ MY BASELINE (Day 31): ║
-║ Mean RMSSD: _______ ms ║
-║ Standard deviation: _______ ms ║
-║ ║
-║ MY THRESHOLDS: ║
-║ Green: ≥ ______ ms ║
-║ Yellow: ______ to ______ ms ║
-║ Red: ≤ ______ ms ║
-║ ║
-║ MY MEASUREMENT PROTOCOL: ║
-║ Time of day: _______ AM/PM ║
-║ Position: _______ (sitting/lying) ║
-║ Duration: _______ seconds ║
-║ Tool: _______ (app/strap/ring) ║
-║ ║
-║ ─────────────────────────────────────────────────────────── ║
-║ ║
-║ GREEN DAY: ║
-║ • Full 60-min session ║
-║ • Full pressure ladder ║
-║ • Variable practice + match sim ║
-║ • Hard match possible ║
-║ ║
-║ YELLOW DAY: ║
-║ • 40-min session ║
-║ • Single-focus drilling only ║
-║ • Rungs 1-3 only ║
-║ • Easy/medium match only ║
-║ ║
-║ RED DAY: ║
-║ • 20-min light, or rest ║
-║ • Rung 1 only, or postpone ║
-║ • Recovery activities ║
-║ • No matches ║
-║ ║
-║ ─────────────────────────────────────────────────────────── ║
-║ ║
-║ WEEKLY HRV TREND: ║
-║ Mon ___ Tue ___ Wed ___ Thu ___ ║
-║ Fri ___ Sat ___ Sun ___ Average: ___ ║
-║ ║
-║ ─────────────────────────────────────────────────────────── ║
-║ ║
-║ 5 MISTAKES TO AVOID: ║
-║ Obsessing over a single reading ║
-║ Comparing your number to someone else's ║
-║ Measuring at inconsistent times ║
-║ Treating a red day as failure ║
-║ Overriding HRV with willpower ║
-║ ║
-║ MASTER CUE: ║
-║ "Read the dashboard. Push on green, rest on red." ║
-║ ║
-╚═══════════════════════════════════════════════════════════════╝
+<div class="pocket-card">
 
-╔═══════════════════════════════════════════════════════════════╗
-║ THE HRV DASHBOARD — QUICK POCKET VERSION ║
-╠═══════════════════════════════════════════════════════════════╣
-║ ║
-║ BASELINE: mean ___ ms ± ___ ms ║
-║ THRESHOLDS: Green ≥ ___ Yellow ___–___ Red ≤ ___ ║
-║ PROTOCOL: ___ AM, ___ sec, sitting, [tool] ║
-║ ║
-║ TODAY: ___ ms = GREEN / YELLOW / RED ║
-║ ║
-║ "Read the dashboard. Push on green, rest on red." ║
-║ ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+<div class="pocket-card-title">THE HRV DASHBOARD — YOUR DAILY BIO-INFORMED SYSTEM</div>
+
+<div class="pocket-card-section">
+<strong>MY BASELINE (Day 31):</strong>
+<p>Mean RMSSD: _______ ms Standard deviation: _______ ms</p>
+<p>MY THRESHOLDS: Green: ≥ ______ ms Yellow: ______ to ______ ms Red: ≤ ______ ms</p>
+<p>MY MEASUREMENT PROTOCOL: Time of day: _______ AM/PM Position: _______ (sitting/lying) Duration: _______ seconds Tool: _______ (app/strap/ring)</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>GREEN DAY:</strong>
+<ul>
+<li>Full 60-min session</li>
+<li>Full pressure ladder</li>
+<li>Variable practice + match sim</li>
+<li>Hard match possible</li>
+</ul>
+<ul>
+<li>YELLOW DAY:</li>
+<li>40-min session</li>
+<li>Single-focus drilling only</li>
+<li>Rungs 1-3 only</li>
+<li>Easy/medium match only</li>
+</ul>
+<ul>
+<li>RED DAY:</li>
+<li>20-min light, or rest</li>
+<li>Rung 1 only, or postpone</li>
+<li>Recovery activities</li>
+<li>No matches</li>
+</ul>
+</div>
+
+<div class="pocket-card-section">
+<strong>WEEKLY HRV TREND:</strong>
+<p>Mon ___ Tue ___ Wed ___ Thu ___ Fri ___ Sat ___ Sun ___ Average: ___</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>5 MISTAKES TO AVOID:</strong>
+<p>Obsessing over a single reading Comparing your number to someone else's Measuring at inconsistent times Treating a red day as failure Overriding HRV with willpower</p>
+<p>MASTER CUE: "Read the dashboard. Push on green, rest on red."</p>
+</div>
+
+</div>
+
+<div class="pocket-card">
+
+<div class="pocket-card-title">THE HRV DASHBOARD — QUICK POCKET VERSION</div>
+
+<div class="pocket-card-section">
+<strong>BASELINE: mean ___ ms ± ___ ms</strong>
+<p>THRESHOLDS: Green ≥ ___ Yellow ___–___ Red ≤ ___ PROTOCOL: ___ AM, ___ sec, sitting, [tool]</p>
+<p>TODAY: ___ ms = GREEN / YELLOW / RED</p>
+<p>"Read the dashboard. Push on green, rest on red."</p>
+</div>
+
+</div>
 
 ## The Final Word
 

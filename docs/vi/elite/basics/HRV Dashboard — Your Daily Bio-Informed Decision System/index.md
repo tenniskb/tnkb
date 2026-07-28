@@ -86,80 +86,66 @@ Và trước một trận đấu, HRV buổi sáng đó đáng để kiểm tra 
 
 ## Thẻ Bảng Điều Khiển HRV Của Bạn
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║ BẢNG ĐIỀU KHIỂN HRV — HỆ THỐNG SINH-HỌC HÀNG NGÀY ║
-╠═══════════════════════════════════════════════════════════════╣
-║ ║
-║ ĐƯỜNG CƠ SỞ CỦA TÔI (Ngày 31): ║
-║ RMSSD trung bình: _______ ms ║
-║ Độ lệch chuẩn: _______ ms ║
-║ ║
-║ NGƯỠNG CỦA TÔI: ║
-║ Xanh: ≥ ______ ms ║
-║ Vàng: ______ đến ______ ms ║
-║ Đỏ: ≤ ______ ms ║
-║ ║
-║ PHÁC ĐỒ ĐO CỦA TÔI: ║
-║ Giờ: _______ SA/CH ║
-║ Vị trí: _______ (ngồi/nằm) ║
-║ Thời lượng: _______ giây ║
-║ Công cụ: _______ (app/dây/nhẫn) ║
-║ ║
-║ ─────────────────────────────────────────────────────────── ║
-║ ║
-║ NGÀY XANH: ║
-║ • Buổi 60 phút đầy đủ ║
-║ • Toàn thang áp lực ║
-║ • Tập biến thiên + mô phỏng trận đấu ║
-║ • Trận khó có thể ║
-║ ║
-║ NGÀY VÀNG: ║
-║ • Buổi 40 phút ║
-║ • Chỉ luyện tiêu điểm đơn ║
-║ • Chỉ nấc 1-3 ║
-║ • Chỉ trận dễ/vừa ║
-║ ║
-║ NGÀY ĐỎ: ║
-║ • 20 phút nhẹ, hoặc nghỉ ║
-║ • Chỉ nấc 1, hoặc hoãn ║
-║ • Hoạt động hồi phục ║
-║ • Không trận ║
-║ ║
-║ ─────────────────────────────────────────────────────────── ║
-║ ║
-║ XU HƯỚNG HRV HÀNG TUẦN: ║
-║ T.Hai ___ T.Ba ___ T.Tư ___ T.Năm ___ ║
-║ T.Sáu ___ T.Bảy ___ C.Nhật ___ Trung bình: ___ ║
-║ ║
-║ ─────────────────────────────────────────────────────────── ║
-║ ║
-║ 5 LỖI CẦN TRÁNH: ║
-║ ☐ Ám ảnh với một lần đọc đơn lẻ ║
-║ ☐ So sánh con số với người khác ║
-║ ☐ Đo ở những thời điểm không nhất quán ║
-║ ☐ Coi ngày đỏ là thất bại ║
-║ ☐ Ghi đè HRV bằng ý chí ║
-║ ║
-║ TÍN HIỆU CHỦ ĐẠO: ║
-║ "Đọc bảng điều khiển. Đẩy ngày xanh, nghỉ ngày đỏ." ║
-║ ║
-╚═══════════════════════════════════════════════════════════════╝
+<div class="pocket-card">
 
-╔═══════════════════════════════════════════════════════════════╗
-║ BẢNG ĐIỀU KHIỂN HRV — PHIÊN BẢN BỎ TÚI ║
-╠═══════════════════════════════════════════════════════════════╣
-║ ║
-║ ĐƯỜNG CƠ SỞ: trung bình ___ ms ± ___ ms ║
-║ NGƯỠNG: Xanh ≥ ___ Vàng ___–___ Đỏ ≤ ___ ║
-║ PHÁC ĐỒ: ___ giờ sáng, ___ giây, ngồi, [công cụ] ║
-║ ║
-║ HÔM NAY: ___ ms = XANH / VÀNG / ĐỎ ║
-║ ║
-║ "Đọc bảng điều khiển. Đẩy ngày xanh, nghỉ ngày đỏ." ║
-║ ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+<div class="pocket-card-title">BẢNG ĐIỀU KHIỂN HRV — HỆ THỐNG SINH-HỌC HÀNG NGÀY</div>
+
+<div class="pocket-card-section">
+<strong>ĐƯỜNG CƠ SỞ CỦA TÔI (Ngày 31):</strong>
+<p>RMSSD trung bình: _______ ms Độ lệch chuẩn: _______ ms</p>
+<p>NGƯỠNG CỦA TÔI: Xanh: ≥ ______ ms Vàng: ______ đến ______ ms Đỏ: ≤ ______ ms</p>
+<p>PHÁC ĐỒ ĐO CỦA TÔI: Giờ: _______ SA/CH Vị trí: _______ (ngồi/nằm) Thời lượng: _______ giây Công cụ: _______ (app/dây/nhẫn)</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>NGÀY XANH:</strong>
+<ul>
+<li>Buổi 60 phút đầy đủ</li>
+<li>Toàn thang áp lực</li>
+<li>Tập biến thiên + mô phỏng trận đấu</li>
+<li>Trận khó có thể</li>
+</ul>
+<ul>
+<li>NGÀY VÀNG:</li>
+<li>Buổi 40 phút</li>
+<li>Chỉ luyện tiêu điểm đơn</li>
+<li>Chỉ nấc 1-3</li>
+<li>Chỉ trận dễ/vừa</li>
+</ul>
+<ul>
+<li>NGÀY ĐỎ:</li>
+<li>20 phút nhẹ, hoặc nghỉ</li>
+<li>Chỉ nấc 1, hoặc hoãn</li>
+<li>Hoạt động hồi phục</li>
+<li>Không trận</li>
+</ul>
+</div>
+
+<div class="pocket-card-section">
+<strong>XU HƯỚNG HRV HÀNG TUẦN:</strong>
+<p>T.Hai ___ T.Ba ___ T.Tư ___ T.Năm ___ T.Sáu ___ T.Bảy ___ C.Nhật ___ Trung bình: ___</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>5 LỖI CẦN TRÁNH:</strong>
+<p>☐ Ám ảnh với một lần đọc đơn lẻ ☐ So sánh con số với người khác ☐ Đo ở những thời điểm không nhất quán ☐ Coi ngày đỏ là thất bại ☐ Ghi đè HRV bằng ý chí</p>
+<p>TÍN HIỆU CHỦ ĐẠO: "Đọc bảng điều khiển. Đẩy ngày xanh, nghỉ ngày đỏ."</p>
+</div>
+
+</div>
+
+<div class="pocket-card">
+
+<div class="pocket-card-title">BẢNG ĐIỀU KHIỂN HRV — PHIÊN BẢN BỎ TÚI</div>
+
+<div class="pocket-card-section">
+<strong>ĐƯỜNG CƠ SỞ: trung bình ___ ms ± ___ ms</strong>
+<p>NGƯỠNG: Xanh ≥ ___ Vàng ___–___ Đỏ ≤ ___ PHÁC ĐỒ: ___ giờ sáng, ___ giây, ngồi, [công cụ]</p>
+<p>HÔM NAY: ___ ms = XANH / VÀNG / ĐỎ</p>
+<p>"Đọc bảng điều khiển. Đẩy ngày xanh, nghỉ ngày đỏ."</p>
+</div>
+
+</div>
 
 ## Lời Cuối
 

@@ -290,48 +290,48 @@ The knee is the **largest joint in the body** and the most injured. It's a hinge
 
 ## 📋 DD6 CARD — Printable
 
-╔═══════════════════════════════════════════════════════════╗
-║  DD6 CARD — KNEES                                         ║
-╠═══════════════════════════════════════════════════════════╣
-║                                                            ║
-║  🎯 ONE BIG IDEA
-║     Load the knee in the 50–80° flexion zone. Vertical    ║
-║     shin. Knee over 2nd toe. Patellar tendonitis is       ║
-║     fixed by eccentric squats, NOT rest.                  ║
-║                                                            ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  KEY NUMBERS
-║  • 50–80° = safe loading zone for tennis lunges          ║
-║  • Meniscus increases contact area 6→14 cm²              ║
-║  • Outer 1/3 of meniscus = vascular, can heal             ║
-║  • Inner 2/3 of meniscus = avascular, cannot heal         ║
-║  • 70% of ACL tears in recreational athletes are non-contact║
-║  • Eccentric squat protocol: 3×15, 2×/day, 12 weeks      ║
-║  • Stair descent patellofemoral force: 4–5× body weight  ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  ⚠️ TOP MISTAKE
-║     Lunging with the knee PAST the toes (shin angles     ║
-║     forward >30°). This translates the tibia forward,    ║
-║     stretches the ACL, and over time causes ACL          ║
-║     laxity → higher tear risk. The fix: step WIDER,      ║
-║     drop the HIP, keep the shin near vertical.            ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  🔁 DRILL
-║     1. VMO activation: terminal knee extension with      ║
-║        internal rotation, 3×15.                            ║
-║     2. Glute med clamshell: 2×15 each side, daily        ║
-║        (knee position controlled from above)              ║
-║     3. Eccentric squat on 25° decline board: 3×15,      ║
-║        2×/day, 12 weeks (only if symptomatic)             ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  💭 MASTER CUE
-║     "Knee over 2nd toe, foot under hip."                  ║
-║                                                            ║
-╚═══════════════════════════════════════════════════════════╝
+<div class="pocket-card">
+
+<div class="pocket-card-title">DD6 CARD — KNEES</div>
+
+<div class="pocket-card-section">
+<strong>🎯 ONE BIG IDEA</strong>
+<p>Load the knee in the 50–80° flexion zone. Vertical shin. Knee over 2nd toe. Patellar tendonitis is fixed by eccentric squats, NOT rest.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>KEY NUMBERS</strong>
+<ul>
+<li>50–80° = safe loading zone for tennis lunges</li>
+<li>Meniscus increases contact area 6→14 cm²</li>
+<li>Outer 1/3 of meniscus = vascular, can heal</li>
+<li>Inner 2/3 of meniscus = avascular, cannot heal</li>
+<li>70% of ACL tears in recreational athletes are non-contact</li>
+<li>Eccentric squat protocol: 3×15, 2×/day, 12 weeks</li>
+<li>Stair descent patellofemoral force: 4–5× body weight</li>
+</ul>
+</div>
+
+<div class="pocket-card-section">
+<strong>⚠️ TOP MISTAKE</strong>
+<p>Lunging with the knee PAST the toes (shin angles forward &gt;30°). This translates the tibia forward, stretches the ACL, and over time causes ACL laxity → higher tear risk. The fix: step WIDER, drop the HIP, keep the shin near vertical.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>🔁 DRILL</strong>
+<ul>
+<li>VMO activation: terminal knee extension with internal rotation, 3×15.</li>
+<li>Glute med clamshell: 2×15 each side, daily (knee position controlled from above)</li>
+<li>Eccentric squat on 25° decline board: 3×15, 2×/day, 12 weeks (only if symptomatic)</li>
+</ul>
+</div>
+
+<div class="pocket-card-section">
+<strong>💭 MASTER CUE</strong>
+<p>"Knee over 2nd toe, foot under hip."</p>
+</div>
+
+</div>
 
 ---
 

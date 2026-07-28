@@ -327,49 +327,49 @@ The control system is the **3rd layer of the kinetic chain** (after the foundati
 
 ## 📋 DD8 CARD — Printable
 
-╔═══════════════════════════════════════════════════════════╗
-║  DD8 CARD — THE CONTROL SYSTEM                            ║
-╠═══════════════════════════════════════════════════════════╣
-║                                                            ║
-║  🎯 ONE BIG IDEA
-║     Tennis needs 4 control systems: vision, vestibular,    ║
-║     proprioception, auditory. The 50+ decline is 20–30%   ║
-║     in each. USE maintains, AVOIDANCE weakens. Keep       ║
-║     playing tennis — that's the vestibular adaptation.    ║
-║                                                            ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  KEY NUMBERS
-║  • 4 control systems: vision, vestibular, proprio, audio  ║
-║  • 5-phase visual cycle (soft eyes → quiet eye → expand)  ║
-║  • Quiet eye duration: pros 200+ ms, 50+ players 100 ms   ║
-║  • VOR reflex: 30 ms (faster than conscious awareness)    ║
-║  • Reaction time: 25yo = 400ms, 50yo = 500ms, 65yo = 600ms║
-║  • 30% fewer sole nerve endings by 65                     ║
-║  • Vestibular hair cells decline ~10–15% by 65           ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  ⚠️ TOP MISTAKE
-║     Stopping tennis because of "dizziness" or "balance    ║
-║     problems." Avoidance weakens the vestibular system    ║
-║     further. The virtuous cycle: keep playing + gaze     ║
-║     stabilization drill + balance work = adaptation.     ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  🔁 DRILL
-║     1. Gaze stabilization: focus on target, turn head    ║
-║        side-to-side. 1 min × 3/day.                        ║
-║     2. Single-leg balance eyes closed: 30 sec × 3 each   ║
-║        side, daily.                                        ║
-║     3. Pattern recognition (100 balls): call the zone     ║
-║        before the ball arrives. 2×/week.                  ║
-║     4. Walking barefoot on grass or sand: 5 min daily.    ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  💭 MASTER CUE
-║     "Use it or lose it. Keep playing."                    ║
-║                                                            ║
-╚═══════════════════════════════════════════════════════════╝
+<div class="pocket-card">
+
+<div class="pocket-card-title">DD8 CARD — THE CONTROL SYSTEM</div>
+
+<div class="pocket-card-section">
+<strong>🎯 ONE BIG IDEA</strong>
+<p>Tennis needs 4 control systems: vision, vestibular, proprioception, auditory. The 50+ decline is 20–30% in each. USE maintains, AVOIDANCE weakens. Keep playing tennis — that's the vestibular adaptation.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>KEY NUMBERS</strong>
+<ul>
+<li>4 control systems: vision, vestibular, proprio, audio</li>
+<li>5-phase visual cycle (soft eyes → quiet eye → expand)</li>
+<li>Quiet eye duration: pros 200+ ms, 50+ players 100 ms</li>
+<li>VOR reflex: 30 ms (faster than conscious awareness)</li>
+<li>Reaction time: 25yo = 400ms, 50yo = 500ms, 65yo = 600ms</li>
+<li>30% fewer sole nerve endings by 65</li>
+<li>Vestibular hair cells decline ~10–15% by 65</li>
+</ul>
+</div>
+
+<div class="pocket-card-section">
+<strong>⚠️ TOP MISTAKE</strong>
+<p>Stopping tennis because of "dizziness" or "balance problems." Avoidance weakens the vestibular system further. The virtuous cycle: keep playing + gaze stabilization drill + balance work = adaptation.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>🔁 DRILL</strong>
+<ul>
+<li>Gaze stabilization: focus on target, turn head side-to-side. 1 min × 3/day.</li>
+<li>Single-leg balance eyes closed: 30 sec × 3 each side, daily.</li>
+<li>Pattern recognition (100 balls): call the zone before the ball arrives. 2×/week.</li>
+<li>Walking barefoot on grass or sand: 5 min daily.</li>
+</ul>
+</div>
+
+<div class="pocket-card-section">
+<strong>💭 MASTER CUE</strong>
+<p>"Use it or lose it. Keep playing."</p>
+</div>
+
+</div>
 
 ---
 

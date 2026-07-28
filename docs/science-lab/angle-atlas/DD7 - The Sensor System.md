@@ -460,50 +460,54 @@ SV (target) → Controller (motor cortex) → Actuator (muscles) → Body (swing
 
 ## 📋 Chapter Card — Printable
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║  THE SENSOR SYSTEM — KEY IDEAS                           ║
-╠═══════════════════════════════════════════════════════════╣
-║                                                            ║
-║  🎯 ONE BIG IDEA
-║     Tennis is a feedback-controlled action.               ║
-║     PV (what's happening) vs SV (what you wanted)        ║
-║     drives every stroke. Train the 5 SENSORS.             ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  THE 5 SENSORS
-║                                                            ║
-║  1. Proprioception — joint angles, muscle tension        ║
-║  2. Feet — ground contact, pressure distribution         ║
-║  3. Hands — racket grip, face angle, vibration           ║
-║  4. Eyes — ball position, target, opponent                ║
-║  5. Ears + Vestibular — sound, head position, balance     ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  THE 3 FEEDBACK LOOPS
-║                                                            ║
-║  1. Live (during stroke) — 10–50 ms — hand + feet + vest ║
-║  2. Post-stroke (after ball lands) — 200–500 ms — eyes   ║
-║  3. Anticipatory (across strokes) — minutes — pattern    ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  ⚠️ TOP MISTAKE
-║     Training only TYPE 2 feedback (post-stroke "watch    ║
-║     the ball"). Train ALL 3 — especially TYPE 1 (live)   ║
-║     and TYPE 3 (anticipatory).                            ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  🔁 DRILL
-║     BLINK DRILL — partner tosses ball. Close eyes        ║
-║     0.5 sec before contact. Hit. Open eyes. Check.        ║
-║     20 reps daily. Tests proprioception accuracy.         ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  💭 MASTER CUE
-║     "Five sensors, three loops. Train the difference."   ║
-║                                                            ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<div class="pocket-card">
+
+<div class="pocket-card-title">THE SENSOR SYSTEM — KEY IDEAS</div>
+
+<div class="pocket-card-section">
+<strong>🎯 ONE BIG IDEA</strong>
+<p>Tennis is a feedback-controlled action. PV (what's happening) vs SV (what you wanted) drives every stroke. Train the 5 SENSORS.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>THE 5 SENSORS</strong>
+<ul>
+<li>Proprioception — joint angles, muscle tension</li>
+<li>Feet — ground contact, pressure distribution</li>
+<li>Hands — racket grip, face angle, vibration</li>
+<li>Eyes — ball position, target, opponent</li>
+<li>Ears + Vestibular — sound, head position, balance</li>
+</ul>
+</div>
+
+<div class="pocket-card-section">
+<strong>THE 3 FEEDBACK LOOPS</strong>
+<ul>
+<li>Live (during stroke) — 10–50 ms — hand + feet + vest</li>
+<li>Post-stroke (after ball lands) — 200–500 ms — eyes</li>
+<li>Anticipatory (across strokes) — minutes — pattern</li>
+</ul>
+</div>
+
+<div class="pocket-card-section">
+<strong>⚠️ TOP MISTAKE</strong>
+<p>Training only TYPE 2 feedback (post-stroke "watch the ball"). Train ALL 3 — especially TYPE 1 (live) and TYPE 3 (anticipatory).</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>🔁 DRILL</strong>
+<ul>
+<li>BLINK DRILL — partner tosses ball. Close eyes</li>
+<li>5 sec before contact. Hit. Open eyes. Check. 20 reps daily. Tests proprioception accuracy.</li>
+</ul>
+</div>
+
+<div class="pocket-card-section">
+<strong>💭 MASTER CUE</strong>
+<p>"Five sensors, three loops. Train the difference."</p>
+</div>
+
+</div>
 
 * * *
 

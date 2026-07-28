@@ -273,44 +273,43 @@ Hãy nhìn bất kỳ khung hình tĩnh nào của cú thuận tay Djokovic tạ
 
 ## 📋 THẺ DD1 — Bản In
 
-╔═══════════════════════════════════════════════════════════╗
-║  THẺ DD1 — NGƯỜI CHƠI TRONG CHUYỂN ĐỘNG                    ║
-╠═══════════════════════════════════════════════════════════╣
-║                                                            ║
-║  🎯 Ý TƯỞNG LỚN DUY NHẤT
-║     Chất lượng cú đánh là HÌNH HỌC, không phải sức mạnh.    ║
-║     Sáu góc khớp tại điểm tiếp xúc quyết định tốc độ và    ║
-║     sự an toàn. Đúng góc, sức mạnh sẽ tự đến theo.          ║
-║                                                            ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  CÁC GÓC CHÍNH
-║  • Gối NẠP LỰC 60–70° (không phải 30° đứng, không 90° lunge)║
-║  • Xoay hông 40–45° tại tiếp xúc                            ║
-║  • Vai dạng 90–100° trong mặt phẳng xương bả vai            ║
-║  • Khuỷu tay 90–100° (con lắc tự nhiên, KHÔNG bật ở 70°)   ║
-║  • Cổ tay duỗi 5–15° tại TIẾP XÚC (KHÔNG bật 110°)         ║
-║  • Cánh tay cách thân 45° (KHÔNG sát cơ thể)                ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  ⚠️ LỖI HÀNG ĐẦU
-║     Đóng băng vị trí cổ tay NẠP LỰC và cố đánh xuyên qua   ║
-║     nó. Vị trí NẠP LỰC là duỗi cổ tay 90–110°. Vị trí      ║
-║     TIẾP XÚC là 0–20°. Đây là HAI VỊ TRÍ KHÁC NHAU. Cú     ║
-║     vụt roi là quá trình chuyển tiếp 0,2 giây giữa chúng.  ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  🔁 BÀI TẬP
-║     Bài "hạ trước": tư thế sẵn sàng, bạn hét "bóng!",      ║
-║     hạ xuống vị trí NẠP LỰC trong 1 giây. Nếu vợt của bạn  ║
-║     ra sau TRƯỚC KHI gối gập, làm lại. Làm 10 lần lặp      ║
-║     trước mỗi buổi tập.                                     ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  💭 CUE CHỦ ĐẠO
-║     "Hạ đầu gối xuống, hông sẽ tự theo."                    ║
-║                                                            ║
-╚═══════════════════════════════════════════════════════════╝
+<div class="pocket-card">
+
+<div class="pocket-card-title">THẺ DD1 — NGƯỜI CHƠI TRONG CHUYỂN ĐỘNG</div>
+
+<div class="pocket-card-section">
+<strong>🎯 Ý TƯỞNG LỚN DUY NHẤT</strong>
+<p>Chất lượng cú đánh là HÌNH HỌC, không phải sức mạnh. Sáu góc khớp tại điểm tiếp xúc quyết định tốc độ và sự an toàn. Đúng góc, sức mạnh sẽ tự đến theo.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>CÁC GÓC CHÍNH</strong>
+<ul>
+<li>Gối NẠP LỰC 60–70° (không phải 30° đứng, không 90° lunge)</li>
+<li>Xoay hông 40–45° tại tiếp xúc</li>
+<li>Vai dạng 90–100° trong mặt phẳng xương bả vai</li>
+<li>Khuỷu tay 90–100° (con lắc tự nhiên, KHÔNG bật ở 70°)</li>
+<li>Cổ tay duỗi 5–15° tại TIẾP XÚC (KHÔNG bật 110°)</li>
+<li>Cánh tay cách thân 45° (KHÔNG sát cơ thể)</li>
+</ul>
+</div>
+
+<div class="pocket-card-section">
+<strong>⚠️ LỖI HÀNG ĐẦU</strong>
+<p>Đóng băng vị trí cổ tay NẠP LỰC và cố đánh xuyên qua nó. Vị trí NẠP LỰC là duỗi cổ tay 90–110°. Vị trí TIẾP XÚC là 0–20°. Đây là HAI VỊ TRÍ KHÁC NHAU. Cú vụt roi là quá trình chuyển tiếp 0,2 giây giữa chúng.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>🔁 BÀI TẬP</strong>
+<p>Bài "hạ trước": tư thế sẵn sàng, bạn hét "bóng!", hạ xuống vị trí NẠP LỰC trong 1 giây. Nếu vợt của bạn ra sau TRƯỚC KHI gối gập, làm lại. Làm 10 lần lặp trước mỗi buổi tập.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>💭 CUE CHỦ ĐẠO</strong>
+<p>"Hạ đầu gối xuống, hông sẽ tự theo."</p>
+</div>
+
+</div>
 
 ---
 

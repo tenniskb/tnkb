@@ -506,42 +506,42 @@ Với người chơi trình 3.5 → 4.5, đây chính là chìa khóa mở khóa
 
 ## 📋 Thẻ Chương — Bản In
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║  BẢN ĐỒ GÓC ĐỘ — Ý TƯỞNG CHÍNH                             ║
-╠═══════════════════════════════════════════════════════════╣
-║                                                            ║
-║  🎯 MỘT Ý TƯỞNG LỚN
-║     Loại cú đánh = các góc tại điểm tiếp xúc.              ║
-║     Chất lượng cú đánh = các góc trong chuỗi động học.     ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  CÁC GÓC CẦN NHỚ
-║                                                            ║
-║  • Gập gối: 120°–135° thuận tay, 130°–140° giao bóng      ║
-║  • Hông-thân: 50°–65° thuận tay, <25° duỗi thắt lưng      ║
-║  • Xoay ngoài vai: 110°–130° giao bóng, 80°–100° thuận tay ║
-║  • Duỗi cổ tay: 90°–110° NẠP LỰC, 0°–20° tại TIẾP XÚC     ║
-║  • Gập cổ tay: 20°–40° SAU tiếp xúc để tạo topspin        ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  ⚠️ LỖI HÀNG ĐẦU
-║     Nhầm lẫn các góc NẠP LỰC (cổ tay 90°+) với các góc    ║
-║     TIẾP XÚC (cổ tay 0°–20°). Người chơi giữ cổ tay lỏng  ║
-║     lúc va chạm, mất ~30 kg lực, đánh bóng nổi bập bềnh.  ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  🔁 BÀI TẬP
-║     Quay video bản thân từ bên (mặt phẳng dọc) và từ trên  ║
-║     xuống (mặt phẳng ngang). Tạm dừng ở vị trí NẠP LỰC.   ║
-║     So sánh 3 con số với bảng. Tìm góc bị thiếu.           ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  💭 CUE CHỦ ĐẠO
-║     "Đừng hỏi phải làm gì. Hãy hỏi cần tạo ra góc nào."   ║
-║                                                            ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<div class="pocket-card">
+
+<div class="pocket-card-title">BẢN ĐỒ GÓC ĐỘ — Ý TƯỞNG CHÍNH</div>
+
+<div class="pocket-card-section">
+<strong>🎯 MỘT Ý TƯỞNG LỚN</strong>
+<p>Loại cú đánh = các góc tại điểm tiếp xúc. Chất lượng cú đánh = các góc trong chuỗi động học.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>CÁC GÓC CẦN NHỚ</strong>
+<ul>
+<li>Gập gối: 120°–135° thuận tay, 130°–140° giao bóng</li>
+<li>Hông-thân: 50°–65° thuận tay, &lt;25° duỗi thắt lưng</li>
+<li>Xoay ngoài vai: 110°–130° giao bóng, 80°–100° thuận tay</li>
+<li>Duỗi cổ tay: 90°–110° NẠP LỰC, 0°–20° tại TIẾP XÚC</li>
+<li>Gập cổ tay: 20°–40° SAU tiếp xúc để tạo topspin</li>
+</ul>
+</div>
+
+<div class="pocket-card-section">
+<strong>⚠️ LỖI HÀNG ĐẦU</strong>
+<p>Nhầm lẫn các góc NẠP LỰC (cổ tay 90°+) với các góc TIẾP XÚC (cổ tay 0°–20°). Người chơi giữ cổ tay lỏng lúc va chạm, mất ~30 kg lực, đánh bóng nổi bập bềnh.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>🔁 BÀI TẬP</strong>
+<p>Quay video bản thân từ bên (mặt phẳng dọc) và từ trên xuống (mặt phẳng ngang). Tạm dừng ở vị trí NẠP LỰC. So sánh 3 con số với bảng. Tìm góc bị thiếu.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>💭 CUE CHỦ ĐẠO</strong>
+<p>"Đừng hỏi phải làm gì. Hãy hỏi cần tạo ra góc nào."</p>
+</div>
+
+</div>
 
 * * *
 

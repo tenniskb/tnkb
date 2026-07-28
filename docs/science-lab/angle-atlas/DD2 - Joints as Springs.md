@@ -301,42 +301,43 @@ At 70: tendon storage = ~22 J, tendon recoil speed = ~7 m/s, amortization window
 
 ## 📋 Chapter Card — Printable
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║  JOINTS AS SPRINGS — KEY IDEAS                            ║
-╠═══════════════════════════════════════════════════════════╣
-║                                                            ║
-║  🎯 ONE BIG IDEA
-║     Tendons are springs. Muscles are engines              ║
-║     that load and release them. The tennis swing         ║
-║     is a chain of 6 springs firing in sequence.           ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  KEY SPRINGS
-║                                                            ║
-║  1. Achilles (heel-cord) — 50° heel-up max load           ║
-║  2. Patellar (knee-cord) — 120° flex max load              ║
-║  3. Gluteal (hip-cord) — 50°–65° hip-torso max load       ║
-║  4. Thoracolumbar fascia — X-factor ~80° max load         ║
-║  5. Pec major + Lats (shoulder) — 110°–130° ER max load   ║
-║  6. Wrist flexors — 90°–110° extension max load            ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  ⚠️ TOP MISTAKE
-║     Confusing "relax to play better" with "load to play   ║
-║     better." You must FIRST load, THEN release.            ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  🔁 DRILL
-║     Slow-motion forehand (1/4 speed), 10 swings. Count    ║
-║     "heel-knee-hip-trunk-shoulder-wrist" out loud.         ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  💭 MASTER CUE
-║     "Three beats: load — silence — release."              ║
-║                                                            ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<div class="pocket-card">
+
+<div class="pocket-card-title">JOINTS AS SPRINGS — KEY IDEAS</div>
+
+<div class="pocket-card-section">
+<strong>🎯 ONE BIG IDEA</strong>
+<p>Tendons are springs. Muscles are engines that load and release them. The tennis swing is a chain of 6 springs firing in sequence.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>KEY SPRINGS</strong>
+<ul>
+<li>Achilles (heel-cord) — 50° heel-up max load</li>
+<li>Patellar (knee-cord) — 120° flex max load</li>
+<li>Gluteal (hip-cord) — 50°–65° hip-torso max load</li>
+<li>Thoracolumbar fascia — X-factor ~80° max load</li>
+<li>Pec major + Lats (shoulder) — 110°–130° ER max load</li>
+<li>Wrist flexors — 90°–110° extension max load</li>
+</ul>
+</div>
+
+<div class="pocket-card-section">
+<strong>⚠️ TOP MISTAKE</strong>
+<p>Confusing "relax to play better" with "load to play better." You must FIRST load, THEN release.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>🔁 DRILL</strong>
+<p>Slow-motion forehand (1/4 speed), 10 swings. Count "heel-knee-hip-trunk-shoulder-wrist" out loud.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>💭 MASTER CUE</strong>
+<p>"Three beats: load — silence — release."</p>
+</div>
+
+</div>
 
 * * *
 

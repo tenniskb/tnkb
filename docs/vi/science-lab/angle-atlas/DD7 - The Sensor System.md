@@ -476,53 +476,51 @@ SV (mục tiêu) → Bộ điều khiển (vỏ não vận động) → Bộ tru
 
 ## 📋 Thẻ Chương — Bản In
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║  HỆ THỐNG CẢM BIẾN — Ý TƯỞNG CHÍNH                         ║
-╠═══════════════════════════════════════════════════════════╣
-║                                                            ║
-║  🎯 MỘT Ý TƯỞNG LỚN
-║     Tennis là một hành động được điều khiển bằng phản     ║
-║     hồi. PV (chuyện gì đang xảy ra) so với SV (bạn muốn   ║
-║     gì) điều khiển mỗi cú đánh. Tập luyện 5 CẢM BIẾN.     ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  5 CẢM BIẾN
-║                                                            ║
-║  1. Cảm nhận bản thể — góc khớp, sức căng cơ               ║
-║  2. Bàn chân — tiếp xúc mặt đất, phân bố áp lực            ║
-║  3. Bàn tay — grip vợt, góc mặt vợt, rung động             ║
-║  4. Mắt — vị trí bóng, mục tiêu, đối thủ                    ║
-║  5. Tai + Tiền đình — âm thanh, vị trí đầu, thăng bằng     ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  3 VÒNG PHẢN HỒI
-║                                                            ║
-║  1. Trực tiếp (trong lúc đánh) — 10–50 ms — tay + chân +  ║
-║     tiền đình                                                ║
-║  2. Sau cú đánh (sau khi bóng rơi) — 200–500 ms — mắt      ║
-║  3. Dự đoán trước (qua nhiều cú đánh) — vài phút — mẫu    ║
-║     hình                                                    ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  ⚠️ LỖI HÀNG ĐẦU
-║     Chỉ tập luyện phản hồi LOẠI 2 (sau cú đánh, "nhìn     ║
-║     bóng"). Hãy tập luyện CẢ 3 — đặc biệt là LOẠI 1        ║
-║     (trực tiếp) và LOẠI 3 (dự đoán trước).                 ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  🔁 BÀI TẬP
-║     BÀI TẬP NHẮM MẮT — bạn tập tung bóng. Nhắm mắt        ║
-║     0,5 giây trước tiếp xúc. Đánh. Mở mắt. Kiểm tra.       ║
-║     20 lần lặp hằng ngày. Kiểm tra độ chính xác cảm       ║
-║     nhận bản thể.                                            ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  💭 CUE CHỦ ĐẠO
-║     "Năm cảm biến, ba vòng lặp. Tập luyện sự khác biệt."  ║
-║                                                            ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<div class="pocket-card">
+
+<div class="pocket-card-title">HỆ THỐNG CẢM BIẾN — Ý TƯỞNG CHÍNH</div>
+
+<div class="pocket-card-section">
+<strong>🎯 MỘT Ý TƯỞNG LỚN</strong>
+<p>Tennis là một hành động được điều khiển bằng phản hồi. PV (chuyện gì đang xảy ra) so với SV (bạn muốn gì) điều khiển mỗi cú đánh. Tập luyện 5 CẢM BIẾN.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>5 CẢM BIẾN</strong>
+<ul>
+<li>Cảm nhận bản thể — góc khớp, sức căng cơ</li>
+<li>Bàn chân — tiếp xúc mặt đất, phân bố áp lực</li>
+<li>Bàn tay — grip vợt, góc mặt vợt, rung động</li>
+<li>Mắt — vị trí bóng, mục tiêu, đối thủ</li>
+<li>Tai + Tiền đình — âm thanh, vị trí đầu, thăng bằng</li>
+</ul>
+</div>
+
+<div class="pocket-card-section">
+<strong>3 VÒNG PHẢN HỒI</strong>
+<ul>
+<li>Trực tiếp (trong lúc đánh) — 10–50 ms — tay + chân + tiền đình</li>
+<li>Sau cú đánh (sau khi bóng rơi) — 200–500 ms — mắt</li>
+<li>Dự đoán trước (qua nhiều cú đánh) — vài phút — mẫu hình</li>
+</ul>
+</div>
+
+<div class="pocket-card-section">
+<strong>⚠️ LỖI HÀNG ĐẦU</strong>
+<p>Chỉ tập luyện phản hồi LOẠI 2 (sau cú đánh, "nhìn bóng"). Hãy tập luyện CẢ 3 — đặc biệt là LOẠI 1 (trực tiếp) và LOẠI 3 (dự đoán trước).</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>🔁 BÀI TẬP</strong>
+<p>BÀI TẬP NHẮM MẮT — bạn tập tung bóng. Nhắm mắt 0,5 giây trước tiếp xúc. Đánh. Mở mắt. Kiểm tra. 20 lần lặp hằng ngày. Kiểm tra độ chính xác cảm nhận bản thể.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>💭 CUE CHỦ ĐẠO</strong>
+<p>"Năm cảm biến, ba vòng lặp. Tập luyện sự khác biệt."</p>
+</div>
+
+</div>
 
 * * *
 

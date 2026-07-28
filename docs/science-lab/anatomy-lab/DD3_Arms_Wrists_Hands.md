@@ -325,45 +325,46 @@ This DD covers the entire arm chain from shoulder to fingertip: humerus, elbow (
 
 ## 📋 DD3 CARD — Printable
 
-╔═══════════════════════════════════════════════════════════╗
-║  DD3 CARD — ARMS, WRISTS & HANDS                         ║
-╠═══════════════════════════════════════════════════════════╣
-║                                                            ║
-║  🎯 ONE BIG IDEA
-║     The ulnar nerve has 2 trap sites (cubital tunnel +   ║
-║     Guyon's canal) and 27 bones form the hand. Grip       ║
-║     pressure is the master switch: 3/10 relaxed, 7/10 at   ║
-║     contact. Most tennis-arm injuries come from over-grip. ║
-║                                                            ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  KEY NUMBERS
-║  • Cubital tunnel narrows 55% at 90° elbow flexion       ║
-║  • 27 hand bones / 8 carpals / 14 phalanges / 5 metacarpals║
-║  • Carpal tunnel cross-section: 2 cm²                     ║
-║  • Grip pressure: 3/10 ready → 7/10 contact → 3/10 follow  ║
-║  • 9 tendons + 1 median nerve inside the carpal tunnel    ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  ⚠️ TOP MISTAKE
-║     Gripping at 8–10/10 the entire point instead of       ║
-║     modulating between 3/10 (relaxed) and 7/10 (contact). ║
-║     This causes tennis elbow, carpal tunnel syndrome,     ║
-║     and cubital tunnel syndrome — the three most common   ║
-║     tennis-arm injuries in 50+ players.                    ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  🔁 DRILL
-║     1. Nerve flossing: 10 slow reps, 3×/day (page 4)      ║
-║     2. Tendon gliding: 10 reps/hand, morning + after play  ║
-║     3. Ball-drop test: walk with ball at 3/10, reset if    ║
-║        you instinctively grip harder.                      ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  💭 MASTER CUE
-║     "Relaxed ready, firm contact, relaxed follow."        ║
-║                                                            ║
-╚═══════════════════════════════════════════════════════════╝
+<div class="pocket-card">
+
+<div class="pocket-card-title">DD3 CARD — ARMS, WRISTS &amp; HANDS</div>
+
+<div class="pocket-card-section">
+<strong>🎯 ONE BIG IDEA</strong>
+<p>The ulnar nerve has 2 trap sites (cubital tunnel + Guyon's canal) and 27 bones form the hand. Grip pressure is the master switch: 3/10 relaxed, 7/10 at contact. Most tennis-arm injuries come from over-grip.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>KEY NUMBERS</strong>
+<ul>
+<li>Cubital tunnel narrows 55% at 90° elbow flexion</li>
+<li>27 hand bones / 8 carpals / 14 phalanges / 5 metacarpals</li>
+<li>Carpal tunnel cross-section: 2 cm²</li>
+<li>Grip pressure: 3/10 ready → 7/10 contact → 3/10 follow</li>
+<li>9 tendons + 1 median nerve inside the carpal tunnel</li>
+</ul>
+</div>
+
+<div class="pocket-card-section">
+<strong>⚠️ TOP MISTAKE</strong>
+<p>Gripping at 8–10/10 the entire point instead of modulating between 3/10 (relaxed) and 7/10 (contact). This causes tennis elbow, carpal tunnel syndrome, and cubital tunnel syndrome — the three most common tennis-arm injuries in 50+ players.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>🔁 DRILL</strong>
+<ul>
+<li>Nerve flossing: 10 slow reps, 3×/day (page 4)</li>
+<li>Tendon gliding: 10 reps/hand, morning + after play</li>
+<li>Ball-drop test: walk with ball at 3/10, reset if you instinctively grip harder.</li>
+</ul>
+</div>
+
+<div class="pocket-card-section">
+<strong>💭 MASTER CUE</strong>
+<p>"Relaxed ready, firm contact, relaxed follow."</p>
+</div>
+
+</div>
 
 ---
 

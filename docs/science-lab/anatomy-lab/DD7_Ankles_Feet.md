@@ -313,51 +313,49 @@ The foot is **a 26-bone, 33-joint, 19-muscle, 7,000+ nerve ending machine**. It 
 
 ## 📋 DD7 CARD — Printable
 
-╔═══════════════════════════════════════════════════════════╗
-║  DD7 CARD — ANKLES & FEET                                 ║
-╠═══════════════════════════════════════════════════════════╣
-║                                                            ║
-║  🎯 ONE BIG IDEA
-║     The foot is a 26-bone, 33-joint, 7,000-nerve-ending    ║
-║     machine. The windlass (plantar fascia as cable)        ║
-║     makes push-off powerful. Outside-leg bridge: foot at   ║
-║     30–45°. Tennis shoes with 10 mm heel lift + 15 mm     ║
-║     toe box narrowing destroy foot function over time.     ║
-║                                                            ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  KEY NUMBERS
-║  • 26 bones / 33 joints / 19 intrinsic+extrinsic muscles  ║
-║  • 7,000+ nerve endings in sole                            ║
-║  • 30 ms reflex (foot → spinal cord → muscle)             ║
-║  • Big toe extends 60–90° for windlass to engage          ║
-║  • Push-off power drops 20–30% without windlass            ║
-║  • Tennis shoes: 10 mm heel lift, 15 mm toe box narrowing ║
-║  • Pros: 28% pressure on big toe, 22% on pinky             ║
-║  • 3.5 players: 5–10% on big toe, 25–35% on midfoot       ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  ⚠️ TOP MISTAKE
-║     Letting the heel drop flat between shots (lazy        ║
-║     feet). The plantar fascia goes slack. The split-step  ║
-║     reaction time goes from 100 ms to 250 ms — enough     ║
-║     time for the opponent to hit a winner. The fix:       ║
-║     "Elevator heel" — keep the heel 1 cm off the ground.  ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  🔁 DRILL
-║     1. Short Foot: stand barefoot, shorten foot without    ║
-║        curling toes. 10 reps × 3/day.                      ║
-║     2. Big Toe Extension Stretch: pull big toe back,      ║
-║        hold 30 sec. 5 reps × 3/day.                        ║
-║     3. Single-Leg Balance Eyes Closed: 30 sec each side.  ║
-║        3 reps × 3/day. Reduces fall risk in 50+.           ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  💭 MASTER CUE
-║     "Heels up, tripod foot, press through the big toe."   ║
-║                                                            ║
-╚═══════════════════════════════════════════════════════════╝
+<div class="pocket-card">
+
+<div class="pocket-card-title">DD7 CARD — ANKLES &amp; FEET</div>
+
+<div class="pocket-card-section">
+<strong>🎯 ONE BIG IDEA</strong>
+<p>The foot is a 26-bone, 33-joint, 7,000-nerve-ending machine. The windlass (plantar fascia as cable) makes push-off powerful. Outside-leg bridge: foot at 30–45°. Tennis shoes with 10 mm heel lift + 15 mm toe box narrowing destroy foot function over time.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>KEY NUMBERS</strong>
+<ul>
+<li>26 bones / 33 joints / 19 intrinsic+extrinsic muscles</li>
+<li>7,000+ nerve endings in sole</li>
+<li>30 ms reflex (foot → spinal cord → muscle)</li>
+<li>Big toe extends 60–90° for windlass to engage</li>
+<li>Push-off power drops 20–30% without windlass</li>
+<li>Tennis shoes: 10 mm heel lift, 15 mm toe box narrowing</li>
+<li>Pros: 28% pressure on big toe, 22% on pinky</li>
+<li>3.5 players: 5–10% on big toe, 25–35% on midfoot</li>
+</ul>
+</div>
+
+<div class="pocket-card-section">
+<strong>⚠️ TOP MISTAKE</strong>
+<p>Letting the heel drop flat between shots (lazy feet). The plantar fascia goes slack. The split-step reaction time goes from 100 ms to 250 ms — enough time for the opponent to hit a winner. The fix: "Elevator heel" — keep the heel 1 cm off the ground.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>🔁 DRILL</strong>
+<ul>
+<li>Short Foot: stand barefoot, shorten foot without curling toes. 10 reps × 3/day.</li>
+<li>Big Toe Extension Stretch: pull big toe back, hold 30 sec. 5 reps × 3/day.</li>
+<li>Single-Leg Balance Eyes Closed: 30 sec each side. 3 reps × 3/day. Reduces fall risk in 50+.</li>
+</ul>
+</div>
+
+<div class="pocket-card-section">
+<strong>💭 MASTER CUE</strong>
+<p>"Heels up, tripod foot, press through the big toe."</p>
+</div>
+
+</div>
 
 ---
 

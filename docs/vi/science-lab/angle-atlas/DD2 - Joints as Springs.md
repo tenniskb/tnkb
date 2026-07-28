@@ -306,43 +306,43 @@ Bây giờ — để kéo vợt ra sau, dây thun phải kéo giãn. Để vung 
 
 ## 📋 Thẻ Chương — Bản In
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║  KHỚP NHƯ LÒ XO — Ý TƯỞNG CHÍNH                            ║
-╠═══════════════════════════════════════════════════════════╣
-║                                                            ║
-║  🎯 MỘT Ý TƯỞNG LỚN
-║     Gân là những chiếc lò xo. Cơ là những động cơ         ║
-║     nạp lực và giải phóng chúng. Cú vung tennis là         ║
-║     một chuỗi 6 lò xo kích hoạt theo trình tự.             ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  CÁC LÒ XO CHÍNH
-║                                                            ║
-║  1. Achilles (dây gót) — nạp lực tối đa ở nhấc gót 50°    ║
-║  2. Gân bánh chè (dây gối) — nạp lực tối đa ở gập 120°    ║
-║  3. Gân mông (dây hông) — nạp lực tối đa ở hông-thân 50°–65°║
-║  4. Mạc ngực-thắt lưng — nạp lực tối đa ở X-factor ~80°   ║
-║  5. Cơ ngực lớn + cơ lưng rộng (vai) — nạp lực tối đa 110°–130° ER║
-║  6. Cơ gấp cổ tay — nạp lực tối đa ở duỗi 90°–110°         ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  ⚠️ LỖI HÀNG ĐẦU
-║     Nhầm lẫn "thư giãn để chơi tốt hơn" với "nạp lực để   ║
-║     chơi tốt hơn". Bạn phải NẠP LỰC TRƯỚC, rồi mới GIẢI   ║
-║     PHÓNG.                                                 ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  🔁 BÀI TẬP
-║     Cú thuận tay quay chậm (1/4 tốc độ), 10 lần vung.     ║
-║     Đếm to "gót-gối-hông-thân-vai-cổ tay".                 ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  💭 CUE CHỦ ĐẠO
-║     "Ba nhịp: nạp lực — im lặng — giải phóng."             ║
-║                                                            ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<div class="pocket-card">
+
+<div class="pocket-card-title">KHỚP NHƯ LÒ XO — Ý TƯỞNG CHÍNH</div>
+
+<div class="pocket-card-section">
+<strong>🎯 MỘT Ý TƯỞNG LỚN</strong>
+<p>Gân là những chiếc lò xo. Cơ là những động cơ nạp lực và giải phóng chúng. Cú vung tennis là một chuỗi 6 lò xo kích hoạt theo trình tự.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>CÁC LÒ XO CHÍNH</strong>
+<ul>
+<li>Achilles (dây gót) — nạp lực tối đa ở nhấc gót 50°</li>
+<li>Gân bánh chè (dây gối) — nạp lực tối đa ở gập 120°</li>
+<li>Gân mông (dây hông) — nạp lực tối đa ở hông-thân 50°–65°</li>
+<li>Mạc ngực-thắt lưng — nạp lực tối đa ở X-factor ~80°</li>
+<li>Cơ ngực lớn + cơ lưng rộng (vai) — nạp lực tối đa 110°–130° ER</li>
+<li>Cơ gấp cổ tay — nạp lực tối đa ở duỗi 90°–110°</li>
+</ul>
+</div>
+
+<div class="pocket-card-section">
+<strong>⚠️ LỖI HÀNG ĐẦU</strong>
+<p>Nhầm lẫn "thư giãn để chơi tốt hơn" với "nạp lực để chơi tốt hơn". Bạn phải NẠP LỰC TRƯỚC, rồi mới GIẢI PHÓNG.</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>🔁 BÀI TẬP</strong>
+<p>Cú thuận tay quay chậm (1/4 tốc độ), 10 lần vung. Đếm to "gót-gối-hông-thân-vai-cổ tay".</p>
+</div>
+
+<div class="pocket-card-section">
+<strong>💭 CUE CHỦ ĐẠO</strong>
+<p>"Ba nhịp: nạp lực — im lặng — giải phóng."</p>
+</div>
+
+</div>
 
 * * *
 
