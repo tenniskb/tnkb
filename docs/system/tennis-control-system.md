@@ -166,6 +166,29 @@ The near-future extension of all this — VR/AR training environments, biofeedba
 
 Three interacting layers — visualization, pre-shaping, execution — form one continuous control loop running under extremely tight time constraints. A weakness anywhere in the chain weakens the whole chain: poor prediction cascades into poor pre-shaping, which cascades into large, error-prone corrections at contact. Training has to target all three layers together, plus the psychological layer that governs how well they function under pressure — not just grooving strokes in isolation. Don't just train hitting the ball. Train the whole system that decides, prepares, and corrects — one that keeps working when the pressure is highest, not just in a relaxed practice rally.
 
+## Appendix: Reference Material for an NTRP 3.5 Program
+
+The 4-8 week curriculum above is built for a player around NTRP 3.5 — someone with reasonably consistent strokes who still operates mostly in reactive mode. The references below are useful video sources for illustrating each layer of the system when coaching that level, plus the official USTA rating benchmarks for calibrating expectations.
+
+**Rating benchmark:**
+
+- [NTRP General Characteristics (USTA)](https://www.usta.com/content/dam/usta/pdfs/10013_experience_player_ntrp_characteristics1%20(2).pdf) — USTA's official description of the 2.5 through 5.0+ benchmarks, useful for calibrating KPI targets to a player's actual level.
+
+**Videos illustrating Layer 1 — Visualization/prediction** (for Group A drills and Phase 2 above):
+
+- [Anticipate your opponents next shot!](https://www.youtube.com/watch?v=SwMOE0Uz-4o)
+- [Anticipation In Tennis - Read | React | Respond](https://www.youtube.com/watch?v=E_ba_sDvGG8)
+
+**Videos illustrating Layer 2 — Pre-shaping** (for Group B, split-step timing lock and unit turn):
+
+- [How To Master The Split Step in 5 Minutes: Beginner to Pro](https://www.youtube.com/watch?v=J1UhPl1UrYs)
+- [How to time your split step](https://www.youtube.com/watch?v=6HG_y6bRRAk)
+- [The Perfect Tennis Unit Turn](https://www.youtube.com/watch?v=mU7fF6_56vs)
+
+**Video illustrating movement/micro-adjustment support for Layer 3:**
+
+- [mini steps for HUGE IMPROVEMENT](https://www.youtube.com/watch?v=YKYaRIhMA0E)
+
 ## Related Concepts
 
 - [Meta-Strategy (P_error)](05.1-meta-strategy-perror.md)

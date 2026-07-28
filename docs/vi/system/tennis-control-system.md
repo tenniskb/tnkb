@@ -166,6 +166,29 @@ Sự mở rộng tương lai gần của tất cả những điều này — mô
 
 Ba lớp tương tác — hình dung, định hình trước, thực hiện — tạo thành một vòng lặp kiểm soát liên tục chạy dưới những ràng buộc thời gian cực kỳ chặt chẽ. Một điểm yếu ở bất kỳ đâu trong chuỗi làm yếu toàn bộ chuỗi: dự đoán kém dẫn đến định hình trước kém, dẫn đến các điều chỉnh lớn, dễ lỗi lúc tiếp xúc. Huấn luyện phải nhắm vào cả ba lớp cùng nhau, cộng với lớp tâm lý chi phối chúng hoạt động tốt đến đâu dưới áp lực — không chỉ luyện cú đánh một cách cô lập. Đừng chỉ luyện đánh bóng. Hãy luyện toàn bộ hệ thống quyết định, chuẩn bị, và sửa chữa — một hệ thống tiếp tục hoạt động khi áp lực cao nhất, không chỉ trong một pha bóng tập luyện thư giãn.
 
+## Phụ Lục: Tài Liệu Tham Khảo Cho Chương Trình NTRP 3.5
+
+Chương trình 4-8 tuần ở trên vốn được xây dựng cho người chơi ở khoảng trình độ NTRP 3.5 — người đã có cú đánh ổn định nhưng vẫn vận hành phần lớn ở chế độ phản ứng. Nhóm tài liệu dưới đây là các nguồn video/tham chiếu hữu ích để minh họa từng lớp của hệ thống khi huấn luyện nhóm trình độ này, cộng với mốc phân loại NTRP chính thức để hiệu chỉnh kỳ vọng.
+
+**Phân loại trình độ tham chiếu:**
+
+- [NTRP General Characteristics (USTA)](https://www.usta.com/content/dam/usta/pdfs/10013_experience_player_ntrp_characteristics1%20(2).pdf) — mô tả chính thức các mốc 2.5 đến 5.0+ của USTA, dùng để hiệu chỉnh kỳ vọng KPI theo trình độ thực tế của người chơi.
+
+**Video minh họa cho Lớp 1 — Hình dung / dự đoán** (dùng cho Nhóm A và Giai đoạn 2 ở trên):
+
+- [Anticipate your opponents next shot!](https://www.youtube.com/watch?v=SwMOE0Uz-4o)
+- [Anticipation In Tennis - Read | React | Respond](https://www.youtube.com/watch?v=E_ba_sDvGG8)
+
+**Video minh họa cho Lớp 2 — Định hình trước** (dùng cho Nhóm B, khóa timing split-step và unit turn):
+
+- [How To Master The Split Step in 5 Minutes: Beginner to Pro](https://www.youtube.com/watch?v=J1UhPl1UrYs)
+- [How to time your split step](https://www.youtube.com/watch?v=6HG_y6bRRAk)
+- [The Perfect Tennis Unit Turn](https://www.youtube.com/watch?v=mU7fF6_56vs)
+
+**Video minh họa cho di chuyển/điều chỉnh nhỏ hỗ trợ Lớp 3:**
+
+- [mini steps for HUGE IMPROVEMENT](https://www.youtube.com/watch?v=YKYaRIhMA0E)
+
 ## Liên kết
 
 - [Meta-Strategy (P_error)](05.1-meta-strategy-perror.md)
