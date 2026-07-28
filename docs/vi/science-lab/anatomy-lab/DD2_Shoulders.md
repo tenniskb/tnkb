@@ -289,49 +289,6 @@ The shoulder is **the most mobile AND the most injured** joint in tennis. This D
 ║                                                            ║
 ╚═══════════════════════════════════════════════════════════╝
 
-╔═══════════════════════════════════════════════════════════╗
-║  DD2 CARD — SHOULDERS                                     ║
-╠═══════════════════════════════════════════════════════════╣
-║                                                            ║
-║  🎯 ONE BIG IDEA
-║     The shoulder is the most mobile AND the most injured  ║
-║     joint. The 4 rotator cuff muscles stabilize the       ║
-║     humeral head during every stroke. Train the cuff       ║
-║     BEFORE the deltoid, and you'll play pain-free past 70.║
-║                                                            ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  KEY NUMBERS
-║  • Scapulohumeral rhythm 2:1 (GH:ST ratio for elevation)  ║
-║  • Subacromial space 7–14 mm (50+ reduces by 2–4 mm)     ║
-║  • Shoulder rotation 1,074–2,300°/sec in serve           ║
-║  • Deltoid:Cuff force ratio 3–4:1 (must keep cuff >70%)   ║
-║  • Scapular plane = 30° forward of pure frontal plane     ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  ⚠️ TOP MISTAKE
-║     Training the deltoid (Front Raise, Overhead Press)    ║
-║     BEFORE the cuff (External Rotation). The deltoid      ║
-║     pulls the humerus up; if the cuff can't oppose it,    ║
-║     the humerus jams into the acromion → impingement.     ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  🔁 DRILL
-║     The "50+ Cuff-First" routine (2×/week):                ║
-║     1. External Rotation with tubing, 2×12 each arm        ║
-║     2. Elbow-to-Hip scapular retraction, 2×12             ║
-║     3. Bent-Over Rear Raise, 2×12                         ║
-║     4. Low Row, 2×12                                       ║
-║     5. Lateral Raise, 2×12                                ║
-║     6. Front Raise, 2×12                                  ║
-║     Always cuff first (5→4→3→6→2→1).                       ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  💭 MASTER CUE
-║     "Cuff first, deltoid second."                          ║
-║                                                            ║
-╚═══════════════════════════════════════════════════════════╝
-
 ---
 
 ## 🖼️ ILLUSTRATIONS

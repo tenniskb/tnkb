@@ -330,49 +330,6 @@ The trunk is the **bridge between the lower body and the upper body** in the kin
 ║                                                            ║
 ╚═══════════════════════════════════════════════════════════╝
 
-╔═══════════════════════════════════════════════════════════╗
-║  DD4 CARD — TRUNK & SPINE                                 ║
-╠═══════════════════════════════════════════════════════════╣
-║                                                            ║
-║  🎯 ONE BIG IDEA
-║     The hip hinge saves your spine. The multifidus         ║
-║     switches off after back pain and needs re-activation.  ║
-║     Walking decompresses L4-L5 better than rest.           ║
-║     Sciatica is a nerve, not a muscle.                     ║
-║                                                            ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  KEY NUMBERS
-║  • L4-L5 disc bears ~3,000 N with 50 kg load + spine hinge║
-║  • L4-L5 bears ~1,200 N with 50 kg load + hip hinge        ║
-║  • Multifidus atrophies 10% in 24h of acute back pain     ║
-║  • 17% of people have sciatic nerve passing THROUGH        ║
-║    piriformis (vs 83% under)                                ║
-║  • Walking short-stride decompresses L4-L5 by ~30%         ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  ⚠️ TOP MISTAKE
-║     Bending to pick up balls with a ROUNDED BACK           ║
-║     (spine hinge) instead of pushing hips BACK             ║
-║     (hip hinge). Over 1,000 reps, the L4-L5 disc           ║
-║     gets 5× more load than the pro who uses hip hinge.     ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  🔁 DRILL
-║     1. Hip Hinge practice: stand, hold golf club along     ║
-║        spine. Push hips back, golf club stays in contact   ║
-║        with sacrum + mid-back. 10 reps × 3/day.            ║
-║     2. Walking Decompression: 5–10 min slow, short-stride,  ║
-║        upright. After tennis and after long sitting.       ║
-║     3. Multifidus Setting: side-lying, draw belly button   ║
-║        back to spine. Hold 10 sec × 10 reps × 3/day.      ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  💭 MASTER CUE
-║     "Hips back, chest up."                                 ║
-║                                                            ║
-╚═══════════════════════════════════════════════════════════╝
-
 ---
 
 ## 🖼️ ILLUSTRATIONS

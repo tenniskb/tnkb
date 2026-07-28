@@ -343,49 +343,6 @@ The hip is the **largest joint in the body**. The gluteus maximus is the **large
 ║                                                            ║
 ╚═══════════════════════════════════════════════════════════╝
 
-╔═══════════════════════════════════════════════════════════╗
-║  DD5 CARD — HIPS & THIGHS                                 ║
-╠═══════════════════════════════════════════════════════════╣
-║                                                            ║
-║  🎯 ONE BIG IDEA
-║     "Hip stiffness" in 50+ players is a CONTROL           ║
-║     problem, not a flexibility problem. The 6 deep        ║
-║     external rotators center the femoral head. When       ║
-║     they go silent, the capsule feels tight. The fix      ║
-║     is ACTIVATION (Hip CARs), not stretching.             ║
-║                                                            ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  KEY NUMBERS
-║  • Gluteus maximus = largest muscle, ~30 kg potential     ║
-║  • 6 deep external rotators center the femoral head       ║
-║  • Hip needs 40–50° rotation for open-stance forehand     ║
-║  • Glute max declines 10–15% by 50, 25–30% by 70         ║
-║  • Wider stance transfers load: quads → gluteus max       ║
-║  • Hip CARs gain 12–18° internal rotation in 2–3 weeks     ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  ⚠️ TOP MISTAKE
-║     Aggressively stretching a "stiff hip" with the        ║
-║     Pigeon pose for 5 minutes. The deep rotators are     ║
-║     silent; aggressive stretching destabilizes the        ║
-║     joint further. Use Hip CARs to RE-ACTIVATE,           ║
-║     not stretch.                                            ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  🔁 DRILL
-║     1. Hip CARs: 3 reps each side, 2 min total, daily     ║
-║        (5 sec out, hold 2 sec, 5 sec in, hold 2 sec)      ║
-║     2. Wider stance transformation: practice 90/90 hip   ║
-║        CARs + side lunges 2×/week                          ║
-║     3. Clamshell: 2×15 each side, daily for glute med    ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  💭 MASTER CUE
-║     "Activate, don't stretch."                            ║
-║                                                            ║
-╚═══════════════════════════════════════════════════════════╝
-
 ---
 
 ## 🖼️ ILLUSTRATIONS

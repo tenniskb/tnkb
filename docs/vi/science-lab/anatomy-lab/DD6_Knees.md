@@ -335,51 +335,6 @@
 ║                                                            ║
 ╚═══════════════════════════════════════════════════════════╝
 
-╔═══════════════════════════════════════════════════════════╗
-║  THẺ DD6 — ĐẦU GỐI                                         ║
-╠═══════════════════════════════════════════════════════════╣
-║                                                            ║
-║  🎯 Ý TƯỞNG LỚN DUY NHẤT
-║     Nạp lực cho gối trong vùng gập 50–80°. Ống chân        ║
-║     thẳng đứng. Gối trên ngón chân thứ hai. Viêm gân       ║
-║     bánh chè được chữa bằng squat ly tâm, KHÔNG PHẢI       ║
-║     nghỉ ngơi.                                              ║
-║                                                            ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  CÁC CON SỐ CHÍNH
-║  • 50–80° = vùng nạp lực an toàn cho lunge tennis          ║
-║  • Sụn chêm tăng diện tích tiếp xúc 6→14 cm²                ║
-║  • Ngoài 1/3 sụn chêm = có mạch máu, có thể lành            ║
-║  • Trong 2/3 sụn chêm = không mạch máu, không thể lành      ║
-║  • 70% rách ACL ở vận động viên phong trào không do va chạm║
-║  • Phác đồ squat ly tâm: 3×15, 2×/ngày, 12 tuần            ║
-║  • Lực khớp xương bánh chè-đùi khi xuống cầu thang: 4–5×   ║
-║    trọng lượng cơ thể                                        ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  ⚠️ LỖI HÀNG ĐẦU
-║     Lunge với gối VƯỢT QUA ngón chân (góc ống chân         ║
-║     nghiêng trước >30°). Điều này làm xương chày trượt     ║
-║     về trước, kéo giãn ACL, và theo thời gian gây lỏng     ║
-║     ACL → nguy cơ rách cao hơn. Cách sửa: bước RỘNG hơn,   ║
-║     hạ HÔNG, giữ ống chân gần thẳng đứng.                   ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  🔁 BÀI TẬP
-║     1. Kích hoạt VMO: duỗi gối cuối tầm kèm xoay trong,    ║
-║        3×15.                                                ║
-║     2. Clamshell cho cơ mông nhỡ: 2×15 mỗi bên, hằng       ║
-║        ngày (vị trí gối được kiểm soát từ phía trên)       ║
-║     3. Squat ly tâm trên ván nghiêng 25°: 3×15, 2×/ngày,   ║
-║        12 tuần (chỉ khi có triệu chứng)                    ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  💭 CUE CHỦ ĐẠO
-║     "Gối trên ngón chân thứ hai, bàn chân dưới hông."      ║
-║                                                            ║
-╚═══════════════════════════════════════════════════════════╝
-
 ---
 
 ## 🖼️ HÌNH MINH HỌA

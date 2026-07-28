@@ -313,46 +313,6 @@ Look at any Djokovic forehand still-frame at contact. The arm is NOT bent at 30�
 ║                                                            ║
 ╚═══════════════════════════════════════════════════════════╝
 
-╔═══════════════════════════════════════════════════════════╗
-║  DD1 CARD — THE PLAYER IN MOTION                           ║
-╠═══════════════════════════════════════════════════════════╣
-║                                                            ║
-║  🎯 ONE BIG IDEA
-║     Stroke quality is GEOMETRY, not strength.              ║
-║     Six joint angles at contact determine pace and        ║
-║     safety. Get the angles right, the strength follows.    ║
-║                                                            ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  KEY ANGLES
-║  • Knee LOADED 60–70° (not 30° standing, not 90° lunge)   ║
-║  • Hip rotation 40–45° at contact                          ║
-║  • Shoulder 90–100° abduction in scapular plane            ║
-║  • Elbow 90–100° (natural pendulum, NOT 70° snap-out)      ║
-║  • Wrist 5–15° extension at CONTACT (NOT 110° snap)       ║
-║  • Arm 45° away from trunk (NOT tight to body)             ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  ⚠️ TOP MISTAKE
-║     Freezing the LOADED wrist position and trying to      ║
-║     hit through it. The LOADED position is 90–110°        ║
-║     wrist extension. The CONTACT position is 0–20°.       ║
-║     These are TWO DIFFERENT positions. The whip is        ║
-║     the 0.2-second transition between them.               ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  🔁 DRILL
-║     "Drop first" drill: ready position, friend yells      ║
-║     "ball!", drop into LOAD position in 1 second.         ║
-║     If your racquet goes back BEFORE your knee bends,    ║
-║     reset. Do 10 reps before each session.                 ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  💭 MASTER CUE
-║     "Drop the knee, the hip will follow."                  ║
-║                                                            ║
-╚═══════════════════════════════════════════════════════════╝
-
 ---
 
 ## 🖼️ ILLUSTRATIONS
