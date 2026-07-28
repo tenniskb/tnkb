@@ -9,7 +9,7 @@ Thư viện này gồm 15 chủ đề. Mỗi chủ đề là một bài viết h
 ## 15 Chủ Đề
 
 1. **[Thần Kinh Học Của Sự Sụp Đổ Dưới Áp Lực, Flow, và Hiệu Suất Áp Lực](than-kinh-hoc-ap-luc.md)** — cơ chế PFC-đối-basal-ganglia đằng sau việc "chết cứng" (choking) và trạng thái flow, sự ức chế sóng não Mu/Beta như chữ ký đo lường được của nó, và bộ công cụ điều tiết cảm xúc (STOP, TIPP) nằm bên dưới quy trình liệu pháp phơi nhiễm đã có trên trang web. *(Đã có)*
-2. **Phòng Ngừa Chấn Thương & Mô Hình Chẩn Đoán Chuỗi Động Học** *(sắp có)* — truy nguyên tennis elbow, đau vai xoay, và các chấn thương do quá tải khác về nguồn gốc thực sự: một sự cố ở hai ba khớp phía trên, không phải khớp đang đau.
+2. **[Phòng Ngừa Chấn Thương & Mô Hình Chẩn Đoán Chuỗi Động Học](phong-ngua-chan-thuong-chuoi-dong-hoc.md)** — truy nguyên tennis elbow, đau vai xoay, và các chấn thương do quá tải khác về nguồn gốc thực sự: một sự cố ở hai ba khớp phía trên, không phải khớp đang đau. *(Đã có)*
 3. **Chu Kỳ Tập Luyện, Hệ Thống Năng Lượng & Khoa Học Hồi Phục** *(sắp có)* — con đường năng lượng ATP-PC, tải trọng tập luyện dựa trên HRV, mô hình "central governor," và vì sao chu kỳ tuyến tính âm thầm thất bại với hầu hết người chơi phong trào trưởng thành.
 4. **Học Vận Động & Sư Phạm Huấn Luyện** *(sắp có)* — external cueing so với internal cueing, differential learning, huấn luyện constraint-led, và bằng chứng thực sự chống lại ẩn dụ "trí nhớ cơ bắp."
 5. **Thời Gian Phản Xạ, Dự Đoán & Chuyên Môn Nhận Thức-Tri Giác** *(sắp có)* — myelination và độ trễ quyết định, saccade dự đoán, và vì sao người chơi đỉnh cao nhìn thấy bóng sớm hơn thay vì phản ứng nhanh hơn.

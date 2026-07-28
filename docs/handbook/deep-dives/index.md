@@ -9,7 +9,7 @@ This library holds 15 categories. Each one is a genuinely new piece of writing �
 ## The 15 Categories
 
 1. **[Neuroscience of Choking, Flow & Pressure Performance](neuroscience-of-pressure-performance.md)** — the PFC-versus-basal-ganglia mechanism behind choking and flow, Mu/Beta wave suppression as its measurable signature, and the emotional-regulation toolkit (STOP, TIPP) underneath the site's existing exposure-therapy protocol. *(Live)*
-2. **Injury Prevention & the Kinetic-Chain Diagnostic Model** *(coming soon)* — tracing tennis elbow, rotator cuff pain, and other overuse injuries back to their true origin: a failure two or three joints upstream, not the joint that hurts.
+2. **[Injury Prevention & the Kinetic-Chain Diagnostic Model](injury-prevention-kinetic-chain.md)** — tracing tennis elbow, rotator cuff pain, and other overuse injuries back to their true origin: a failure two or three joints upstream, not the joint that hurts. *(Live)*
 3. **Periodization, Energy Systems & Recovery Science** *(coming soon)* — the ATP-PC energy pathway, HRV-guided training load, the central governor model, and why linear periodization quietly fails most adult recreational players.
 4. **Motor Learning & Coaching Pedagogy** *(coming soon)* — external cueing versus internal cueing, differential learning, constraint-led coaching, and the actual evidence against the "muscle memory" metaphor.
 5. **Reaction Time, Anticipation & Perceptual-Cognitive Expertise** *(coming soon)* — myelination and decision latency, predictive saccades, and how elite players see the ball earlier rather than react to it faster.
