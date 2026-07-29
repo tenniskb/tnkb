@@ -40,5 +40,17 @@ Một nghiên cứu tình huống phát triển tay vợt gồm mười chương
 
 Các chương trình huấn luyện nhiều tuần, có cấu trúc, mô phỏng theo các huyền thoại — đối tác thực hành cho những nghiên cứu tình huống ở trên.
 
-- [Tổng Quan Chương Trình Huấn Luyện](training-programs/index.md) — danh sách đầy đủ, bao gồm chương trình đỡ giao bóng của Agassi (đã có) và bốn chương trình khác đang được xây dựng (Djokovic, Federer, Nadal, Sampras).
+- [Tổng Quan Chương Trình Huấn Luyện](training-programs/index.md) — danh sách đầy đủ: đỡ giao bóng của Agassi, dẻo dai và thích nghi của Djokovic, lối chơi toàn sân của Federer, động cơ thể lực của Nadal, và phát triển giao bóng của Sampras.
 - [Chương Trình Bậc Thầy Đỡ Giao Bóng Của Agassi](training-programs/agassi-return-mastery.md) — chương trình 10 tuần, bốn giai đoạn, xây dựng khả năng nhận diện giao bóng, định vị chủ động, và chiến thuật đỡ bóng đã được kiểm chứng dưới áp lực.
+- [Chương Trình Dẻo Dai & Thích Nghi Của Djokovic](training-programs/djokovic-flexibility-adaptability.md) — chương trình 12 tuần xây dựng sức mạnh đàn hồi, biên độ vận động cực đoan, và linh hoạt tâm lý để đổi chiến thuật giữa trận.
+- [Chương Trình Lối Chơi Toàn Sân Của Federer](training-programs/federer-all-court-game.md) — chương trình 12 tuần xây dựng đa dạng cú đánh, định vị sân, và lối chơi chuyển tiếp liền mạch.
+- [Chương Trình Thể Lực Của Nadal](training-programs/nadal-physical-training.md) — chương trình 12 tuần xây dựng sức mạnh bùng nổ chi dưới, kỹ thuật trượt chân thực sự, và sức bền sân đất nện.
+- [Chương Trình Phát Triển Giao Bóng Của Sampras](training-programs/sampras-serve-development.md) — chương trình 12 tuần xây dựng sức mạnh giao bóng, sự đa dạng được che giấu, và sự điềm tĩnh dưới áp lực.
+
+## Phân Tích Kỹ Thuật
+
+Cách bản thân các cú đánh đã tiến hóa, dùng nhiều tay vợt và thời đại làm điểm dữ liệu thay vì một khuôn mẫu duy nhất.
+
+- [Tổng Quan Phân Tích Kỹ Thuật](technical-analysis/index.md) — tiến hóa thuận tay từ cổ điển đến hiện đại, và sinh cơ học giao bóng qua năm tay vợt.
+- [Tiến Hóa Của Cú Thuận Tay: Từ Cổ Điển Đến Hiện Đại](technical-analysis/tien-hoa-thuan-tay.md) — thay đổi cách cầm vợt, tư thế, và đường vung từ thập niên 1970 đến nay, và vai trò của dụng cụ.
+- [Sinh Cơ Học Giao Bóng: Từ Sampras Đến Isner](technical-analysis/sinh-co-hoc-giao-bong-sampras-den-isner.md) — năm mô hình giao bóng khác biệt về sinh cơ học và các nguyên tắc chuỗi động học chung bên dưới tất cả.

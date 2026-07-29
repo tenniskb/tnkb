@@ -40,5 +40,17 @@ A ten-chapter development case study on Jannik Sinner — the ski-slope-to-ATP-N
 
 Structured, multi-week programs modeled on legendary players — the operational counterpart to the case studies above.
 
-- [Training Programs Overview](training-programs/index.md) — the full list, including Agassi's return-of-serve program (live) and four more in progress (Djokovic, Federer, Nadal, Sampras).
+- [Training Programs Overview](training-programs/index.md) — the full list: Agassi's return of serve, Djokovic's flexibility and adaptability, Federer's all-court game, Nadal's physical engine, and Sampras's serve development.
 - [Agassi Return Mastery Program](training-programs/agassi-return-mastery.md) — a 10-week, four-phase program building serve recognition, proactive positioning, and pressure-tested return tactics.
+- [Djokovic Flexibility & Adaptability Program](training-programs/djokovic-flexibility-adaptability.md) — a 12-week program building elastic strength, extreme range of motion, and the mental flexibility to change tactics mid-match.
+- [Federer All-Court Game Program](training-programs/federer-all-court-game.md) — a 12-week program building shot variety, court positioning, and a seamless transition game.
+- [Nadal Physical Training Program](training-programs/nadal-physical-training.md) — a 12-week program building explosive lower-body power, real sliding technique, and clay-court endurance.
+- [Sampras Serve Development Program](training-programs/sampras-serve-development.md) — a 12-week program building serve power, disguised variety, and composure under pressure.
+
+## Technical Analysis
+
+How the strokes themselves have evolved, using multiple players and eras as data points rather than a single template.
+
+- [Technical Analysis Overview](technical-analysis/index.md) — forehand evolution from classic to modern, and serve biomechanics across five players.
+- [Forehand Evolution: From Classic to Modern](technical-analysis/forehand-evolution.md) — grip, stance, and swing-path changes from the 1970s to today, and what equipment had to do with it.
+- [Serve Biomechanics: From Sampras to Isner](technical-analysis/serve-biomechanics-sampras-to-isner.md) — five biomechanically distinct serve models and the kinetic-chain principles underneath all of them.

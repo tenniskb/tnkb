@@ -11,10 +11,12 @@ Mỗi chương trình kéo dài 8-12 tuần, được tổ chức theo các giai
 | Chương trình | Tay vợt | Trọng tâm | Thời lượng |
 | --- | --- | --- | --- |
 | [Agassi — Bậc Thầy Đỡ Giao Bóng](agassi-return-mastery.md) | Andre Agassi | Đỡ giao bóng, tốc độ phản xạ, dự đoán, chuyển từ phòng thủ sang tấn công | 10 tuần |
-| Djokovic — Dẻo Dai & Thích Nghi *(sắp có)* | Novak Djokovic | Sức mạnh đàn hồi, dẻo dai động, khả năng thích nghi tâm lý | 12 tuần |
-| Federer — Lối Chơi Toàn Sân *(sắp có)* | Roger Federer | Đa dạng cú đánh, bao quát sân, chuyển pha | 12 tuần |
-| Nadal — Thể Lực *(sắp có)* | Rafael Nadal | Bùng nổ chi dưới, trượt chân, sức bền sân đất nện | 12 tuần |
-| Sampras — Phát Triển Giao Bóng *(sắp có)* | Pete Sampras | Cơ chế giao bóng, tennis tấn công trước | 8 tuần |
+| [Djokovic — Dẻo Dai & Thích Nghi](djokovic-flexibility-adaptability.md) | Novak Djokovic | Sức mạnh đàn hồi, dẻo dai động, khả năng thích nghi tâm lý | 12 tuần |
+| [Federer — Lối Chơi Toàn Sân](federer-all-court-game.md) | Roger Federer | Đa dạng cú đánh, bao quát sân, chuyển pha | 12 tuần |
+| [Nadal — Thể Lực](nadal-physical-training.md) | Rafael Nadal | Bùng nổ chi dưới, trượt chân, sức bền sân đất nện | 12 tuần |
+| [Sampras — Phát Triển Giao Bóng](sampras-serve-development.md) | Pete Sampras | Cơ chế giao bóng, tennis tấn công trước | 12 tuần |
+
+Bên cạnh các chương trình, phần [Phân Tích Kỹ Thuật](../technical-analysis/index.md) xem xét cách bản thân các cú đánh đã tiến hóa — kỹ thuật thuận tay qua các thời đại, và sinh cơ học giao bóng qua năm dạng cơ thể rất khác nhau.
 
 ## Cách Sử Dụng Các Chương Trình
 

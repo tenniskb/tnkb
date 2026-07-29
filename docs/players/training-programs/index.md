@@ -11,10 +11,12 @@ Each program runs 8-12 weeks, is organized into phases with explicit weekly goal
 | Program | Player | Focus | Duration |
 | --- | --- | --- | --- |
 | [Agassi Return Mastery](agassi-return-mastery.md) | Andre Agassi | Return of serve, reaction time, anticipation, defense-to-offense conversion | 10 weeks |
-| Djokovic Flexibility & Adaptability *(coming soon)* | Novak Djokovic | Elastic strength, dynamic flexibility, mental adaptability | 12 weeks |
-| Federer All-Court Game *(coming soon)* | Roger Federer | Shot variety, court coverage, transition play | 12 weeks |
-| Nadal Physical Training *(coming soon)* | Rafael Nadal | Explosive lower body, sliding, clay-court endurance | 12 weeks |
-| Sampras Serve Development *(coming soon)* | Pete Sampras | Serve mechanics, first-strike tennis | 8 weeks |
+| [Djokovic Flexibility & Adaptability](djokovic-flexibility-adaptability.md) | Novak Djokovic | Elastic strength, dynamic flexibility, mental adaptability | 12 weeks |
+| [Federer All-Court Game](federer-all-court-game.md) | Roger Federer | Shot variety, court coverage, transition play | 12 weeks |
+| [Nadal Physical Training](nadal-physical-training.md) | Rafael Nadal | Explosive lower body, sliding, clay-court endurance | 12 weeks |
+| [Sampras Serve Development](sampras-serve-development.md) | Pete Sampras | Serve mechanics, first-strike tennis | 12 weeks |
+
+Alongside the programs, the [Technical Analysis](../technical-analysis/index.md) section looks at how the strokes themselves have evolved — forehand technique across eras, and serve biomechanics across five very different body types.
 
 ## How to Use These Programs
 
